@@ -1,11 +1,29 @@
-Ideas (just add what we should deal with):
+Important Notes:
+- 24h format!
+
+Outline (create more details as wanted):
+
+1. Access Course Data 
+  1.1. Retrieve data from website
+2. Store Course Data
+  2.1. From source code
+3. User Interface
+  3.1. Prompt for Classes to take
+4. Find Solutions and Rank!
+
+Optimize on Prof Ranking, Easiness, Major + Myportal Transcript
+
+
 
 
 
 Henrry:
+- Algo.: For finding all possible schedules
 
 Adya:
+- How to retrieve the data
 
 Sean:
+- How to retrieve the data
 
 Nico:
