@@ -6,7 +6,9 @@ Outline (create more details as wanted):
 1. Access Course Data 
   1.1. Retrieve data from website
 
-
+ || Class (DataCrawl)
+    --> public Constructor (String[] ids) //ids representing the ids the user is taking
+    --> Class[][] getData() //return multi dim. array of available classes | new Class[numb ClassIDs][numb schedules of class]()
 
 2. Store Course Data
   2.1. From source code
