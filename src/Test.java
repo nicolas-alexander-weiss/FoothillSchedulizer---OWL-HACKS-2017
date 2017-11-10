@@ -6,6 +6,9 @@ import org.jsoup.select.Elements;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class Test
 {
@@ -17,21 +20,37 @@ public class Test
         String question = document.select(".listings").text();
         System.out.println("Question: " + question + "\n");
 
-        int wrapLength = 100;
-        String wrapString = new String();
-
-        while(question.length()>wrapLength){
-            int lastIndex = question.lastIndexOf(" ", wrapLength);
-            wrapString = wrapString.concat(question.substring(0, lastIndex));
-            wrapString = wrapString.concat("\n");
-
-            question = question.substring(lastIndex+1, question.length());
-        }
-
-        System.out.println(wrapString);
-
         String outputFileName = "resources/output";
         BufferedWriter fileWriter;
+
+        String regex = "(\\d{5}.+?)Class";
+
+        Pattern pattern = Pattern.compile(regex);
+        Matcher matcher = pattern.matcher(question);
+        // Check all occurrences
+
+        ArrayList<String> stringsss = new ArrayList<>();
+
+        while (matcher.find()) {
+            System.out.println(matcher.group());
+        }
+
+        /*
+        try {
+            while (matcher.find() ) {
+                int i = matcher.start();
+                if (i != 0) {
+                    stringsss.add(wrapString.substring(0,i));
+                    wrapString = wrapString.substring(i);
+                }
+            }
+        } catch (IndexOutOfBoundsException e) {
+            e.printStackTrace();
+        }
+
+        for (int i = 0; i < stringsss.size(); i++) {
+            System.out.println(stringsss.get(i) + "\n");
+        }
 
         try {
             fileWriter = new BufferedWriter(new FileWriter(outputFileName + ".txt"));
@@ -40,8 +59,7 @@ public class Test
         } catch (IOException e) {
             e.printStackTrace();
         }
-
-
+        */
 
     }
 
