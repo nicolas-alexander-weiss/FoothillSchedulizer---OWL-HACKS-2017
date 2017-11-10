@@ -2,15 +2,25 @@ import java.util.ArrayList;
 
 public class ScheduleChecker {
 
-    private boolean[][] schedule;
+    private ArrayList<Schedule> possibleSchedules;
 
-    private ArrayList<Class> classList;
+    private Class[][] classes;
 
-    public ScheduleChecker(){
-        schedule = new boolean[7][24*12];
-        classList = new ArrayList<Class>();
+    private int iterator;
+
+    public ScheduleChecker(Class[][] classes){
+        this.classes = classes;
+        computePossibleSchedules();
+        initIterator();
     }
 
+    private void initIterat
+
+    private void computePossibleSchedules() {
+        while(nextIterator){
+
+        }
+    }
 
 
 
