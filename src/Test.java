@@ -3,6 +3,10 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+
 public class Test
 {
     public static void main(String[] args) throws Exception
@@ -25,5 +29,22 @@ public class Test
         }
 
         System.out.println(wrapString);
+
+        String outputFileName = "resources/output";
+        BufferedWriter fileWriter;
+
+        try {
+            fileWriter = new BufferedWriter(new FileWriter(outputFileName + ".txt"));
+            fileWriter.write(wrapString);
+            fileWriter.flush();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+
+
     }
+
+
+
 }
