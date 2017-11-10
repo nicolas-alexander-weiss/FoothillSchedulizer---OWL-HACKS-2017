@@ -14,6 +14,11 @@ public class Class {
         this.instructor = instructor;
         setClassTimes(classTimes);
     }
+    public Class(String name, String id, String instructor, ArrayList<Integer> classTimes){
+        this.id = id;
+        this.instructor = instructor;
+        setClassTimes(classTimes);
+    }
     /*
     public Class(String name, String id, String instructor, String[] classTimes){
         this.id = id;
@@ -63,6 +68,18 @@ public class Class {
         return ret;
     }
 
+    public boolean setClassTimes(ArrayList<Integer> classTimes){
+        this.classTimes = new ArrayList<Integer>();
+        boolean ret = true;
+        for(int classTime : classTimes){
+            if(ret && !validTimeInt(classTime)){
+                ret = false;
+            }
+            this.classTimes.add(new Integer(classTime));
+        }
+        return ret;
+    }
+
     private boolean validTimeInt(int classTime) {
         int temp = classTime;
         int d = temp / 100000000;
@@ -71,7 +88,9 @@ public class Class {
         temp = temp - d * 10000;
         int end = temp;
 
-        if (!((d >= 0) && (d <= 6))) {
+        if(classTime == 0){
+            return true;
+        } else if (!((d >= 0) && (d <= 6))) {
             return false;
         } else if ((beg >= end)) {
             return false;
