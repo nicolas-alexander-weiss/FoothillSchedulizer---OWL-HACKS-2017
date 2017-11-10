@@ -28,6 +28,14 @@ public class Class {
 */
 
 
+    public String getId(){
+        return this.id;
+    }
+
+    public String getInstructor(){
+        return instructor;
+    }
+
     public int[] getClassTimes(){
         int[] classTimes = new int[this.classTimes.size()];
         for(int i = 0; i < this.classTimes.size(); i++){
@@ -39,6 +47,7 @@ public class Class {
     /**
      * Sets the instance field classTimes
      * Format of int: dhhmmhhmm (day (Mon 0 - Sun 6)|(begin time)|(end time)
+     * If only class, then all zero!!!!
      * @param classTimes array of int of class intervals
      * @return false if there is an conflict
      */
