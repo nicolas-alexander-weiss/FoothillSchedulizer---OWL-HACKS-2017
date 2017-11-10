@@ -3,6 +3,13 @@ public class ClassTimes {
     private int time;
     private String room;
 
+    /**
+     * Constructor for ClassTimes
+     * Format of time: dhhmmhhmm (day (Mon 0 - Sun 6)|(begin time)|(end time)
+     * If online class, then all zero!!!!
+     * @param time
+     * @param room
+     */
     ClassTimes(int time, String room) {
         boolean validTime = setTime(time);
         boolean validRoom = setRoom(room);
