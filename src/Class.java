@@ -2,23 +2,29 @@ import java.util.ArrayList;
 
 public class Class {
 
-    private String id;
+    private int crn;
+
+    private String name;
 
     private String instructor;
 
-    private ArrayList<Integer> classTimes;
+    private ArrayList<ClassTimes> classTimes;
 
 
-    public Class(String name, String id, String instructor, int[] classTimes){
-        this.id = id;
+    /**
+     *
+     * @param crn CRN Number
+     * @param name e.g. CS1A
+     * @param instructor instructor name
+     * @param classTimes ArrayList of ClassTimes
+     */
+    public Class(int crn, String name, String instructor, ArrayList<ClassTimes> classTimes){
+        this.crn = crn;
+        this.name = name;
         this.instructor = instructor;
-        setClassTimes(classTimes);
+        this.classTimes = new ArrayList<ClassTimes>(classTimes);
     }
-    public Class(String name, String id, String instructor, ArrayList<Integer> classTimes){
-        this.id = id;
-        this.instructor = instructor;
-        setClassTimes(classTimes);
-    }
+
     /*
     public Class(String name, String id, String instructor, String[] classTimes){
         this.id = id;
@@ -33,70 +39,16 @@ public class Class {
 */
 
 
-    public String getId(){
-        return this.id;
+    public String getName(){
+        return this.name;
     }
 
     public String getInstructor(){
         return instructor;
     }
 
-    public int[] getClassTimes(){
-        int[] classTimes = new int[this.classTimes.size()];
-        for(int i = 0; i < this.classTimes.size(); i++){
-            classTimes[i] = this.classTimes.get(i);
-        }
-        return classTimes;
-    }
-
-    /**
-     * Sets the instance field classTimes
-     * Format of int: dhhmmhhmm (day (Mon 0 - Sun 6)|(begin time)|(end time)
-     * If only class, then all zero!!!!
-     * @param classTimes array of int of class intervals
-     * @return false if there is an conflict
-     */
-    public boolean setClassTimes(int[] classTimes){
-        this.classTimes = new ArrayList<Integer>();
-        boolean ret = true;
-        for(int classTime : classTimes){
-            if(ret && !validTimeInt(classTime)){
-                ret = false;
-            }
-            this.classTimes.add(new Integer(classTime));
-        }
-        return ret;
-    }
-
-    public boolean setClassTimes(ArrayList<Integer> classTimes){
-        this.classTimes = new ArrayList<Integer>();
-        boolean ret = true;
-        for(int classTime : classTimes){
-            if(ret && !validTimeInt(classTime)){
-                ret = false;
-            }
-            this.classTimes.add(new Integer(classTime));
-        }
-        return ret;
-    }
-
-    private boolean validTimeInt(int classTime) {
-        int temp = classTime;
-        int d = temp / 100000000;
-        temp = temp - d*100000000;
-        int beg = temp / 10000;
-        temp = temp - d * 10000;
-        int end = temp;
-
-        if(classTime == 0){
-            return true;
-        } else if (!((d >= 0) && (d <= 6))) {
-            return false;
-        } else if ((beg >= end)) {
-            return false;
-        } else {
-            return true;
-        }
+    public ArrayList<ClassTimes> getClassTimes(){
+        return new ArrayList<ClassTimes>(this.classTimes);
     }
 
 }
