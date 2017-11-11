@@ -2,17 +2,19 @@ public class ClassTime {
 
     private int time;
     private String room;
+    private String type;
+    private String instructor;
 
     /**
      * Constructor for ClassTime
      * Format of time: dhhmmhhmm (day (Mon 0 - Sun 6)|(begin time)|(end time)
      * If online class, then all zero!!!!
-     * @param time
-     * @param room
      */
-    ClassTime(int time, String room) {
+    ClassTime(int time, String room, String type, String instructor) {
         boolean validTime = setTime(time);
         boolean validRoom = setRoom(room);
+        this.type = type;
+        this.instructor = instructor;
     }
 
     private boolean validTimeInt(int classTime) {
@@ -58,5 +60,13 @@ public class ClassTime {
 
     public String getRoom() {
         return room;
+    }
+
+    public String getInstructor() {
+        return instructor;
+    }
+
+    public String getType() {
+        return type;
     }
 }

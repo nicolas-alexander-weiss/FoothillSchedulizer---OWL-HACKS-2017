@@ -6,8 +6,6 @@ public class Class {
 
     private String name;
 
-    private String instructor;
-
     private ArrayList<ClassTime> classTimes;
 
 
@@ -15,13 +13,11 @@ public class Class {
      *
      * @param crn CRN Number
      * @param name e.g. CS1A
-     * @param instructor instructor name
      * @param classTime ArrayList of ClassTime
      */
-    public Class(int crn, String name, String instructor, ArrayList<ClassTime> classTime){
+    public Class(int crn, String name, ArrayList<ClassTime> classTime){
         this.crn = crn;
         this.name = name;
-        this.instructor = instructor;
         this.classTimes = new ArrayList<ClassTime>(classTime);
     }
 
@@ -43,8 +39,8 @@ public class Class {
         return this.name;
     }
 
-    public String getInstructor(){
-        return instructor;
+    public int getCrn() {
+        return crn;
     }
 
     public ArrayList<ClassTime> getClassTimes(){
