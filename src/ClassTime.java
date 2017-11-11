@@ -74,22 +74,22 @@ public class ClassTime {
     }
 
     public String toString() {
-        return time + " " + type + " " + instructor + " " + room;
+        return type + ";" + time + ";" + instructor + ";" + room;
     }
 
     /**
      * Creates a ClassTime object form the given String.
-     * @param s time + " " + type + " " + instructor + " " + room
+     * @param s  type + " " + time + " " + instructor + " " + room
      * @return a ClassTime object
      */
     public static ClassTime fromString(String s){
-        String[] stringParts = s.split(" ");
+        String[] stringParts = s.split(";");
 
 
         boolean timeIsNumeric;
         int time = 0;
         try{
-            time = Integer.parseInt(stringParts[0]);
+            time = Integer.parseInt(stringParts[1]);
             timeIsNumeric = true;
         }catch (Exception ex){
             timeIsNumeric = false;
@@ -98,7 +98,10 @@ public class ClassTime {
         if(stringParts.length != 4 || timeIsNumeric){
             return null;
         }else{
-            return new ClassTime(time,stringParts[3], stringParts[1], stringParts[2]);
+            String type = stringParts[0];
+            String instructor = stringParts[2];
+            String room = stringParts[3];
+            return new ClassTime(time,room, type, instructor);
         }
     }
 }
