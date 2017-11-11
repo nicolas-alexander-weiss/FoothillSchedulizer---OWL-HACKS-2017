@@ -69,4 +69,8 @@ public class ClassTime {
     public String getType() {
         return type;
     }
+
+    public String toString() {
+        return "Time: " + time + " | Type: " + type + " | Instructor: " + instructor + " | Room: " + room;
+    }
 }
