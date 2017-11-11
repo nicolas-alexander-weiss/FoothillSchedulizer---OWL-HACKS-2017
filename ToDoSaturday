@@ -14,6 +14,7 @@
             --> return Class[][]
 
 3. Display Schedules:
+    3.0. Ordering Schedules (See 1.)
     3.1. Allowing Edits to Schedules such as Sleep Times
     --> General UI
 
