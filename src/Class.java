@@ -47,4 +47,17 @@ public class Class {
         return new ArrayList<>(this.classTimes);
     }
 
+    public String toString(){
+        StringBuilder ret = new StringBuilder("");
+        ret.append(crn);
+        ret.append("\n");
+        ret.append(name);
+
+        for(ClassTime classTime : classTimes){
+            ret.append("\n");
+            ret.append(classTime.toString());
+        }
+        return ret.toString();
+    }
+
 }
