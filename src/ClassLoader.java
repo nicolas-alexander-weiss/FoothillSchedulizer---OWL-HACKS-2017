@@ -17,6 +17,7 @@ public class ClassLoader {
         return (new File(filePath)).exists();
     }
 
+
     /**
      * load Classes
      * @param classNames
@@ -36,11 +37,7 @@ public class ClassLoader {
             }
         }
 
-        return classes.toArray();
-    }
-
-    private static Class[] loadClass(ClassName className) {
-        return new Class[0];
+        return (Class[][])classes.toArray();
     }
 
     /**
@@ -51,6 +48,13 @@ public class ClassLoader {
     public static Class[][] loadClassesWithoutCheck(ClassName[] classNames){
         return loadClasses(classNames, 1);
     }
+
+    private static Class[] loadClass(ClassName className) {
+        String filePath = "resources/" + className.getDepartment().toUpperCase() + "/" + className.getName().toUpperCase();
+        File classFile = new File(filePath);
+    }
+
+
 
 
 }
