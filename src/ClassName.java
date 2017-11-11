@@ -39,4 +39,9 @@ public class ClassName {
     public String getName() {
         return name;
     }
+
+    @Override
+    public String toString(){
+        return department.toUpperCase() + name.toUpperCase();
+    }
 }

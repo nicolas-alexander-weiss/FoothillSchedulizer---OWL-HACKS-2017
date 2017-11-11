@@ -47,6 +47,7 @@ public class Class {
         return new ArrayList<>(this.classTimes);
     }
 
+    @Override
     public String toString(){
         StringBuilder ret = new StringBuilder("");
         ret.append(crn);
@@ -58,6 +59,17 @@ public class Class {
             ret.append(classTime.toString());
         }
         return ret.toString();
+    }
+
+    /**
+     * Format:
+     * //crn as int//
+     * //ClassName//
+     * @param s
+     * @return
+     */
+    public static Class fromString(String s){
+
     }
 
 }

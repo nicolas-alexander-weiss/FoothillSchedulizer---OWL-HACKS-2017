@@ -1,5 +1,7 @@
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.util.ArrayList;
+import java.util.Scanner;
 
 public class ClassLoader {
     private ClassLoader(){
@@ -52,6 +54,15 @@ public class ClassLoader {
     private static Class[] loadClass(ClassName className) {
         String filePath = "resources/" + className.getDepartment().toUpperCase() + "/" + className.getName().toUpperCase();
         File classFile = new File(filePath);
+        ArrayList<Class> arrayList = new ArrayList<>();
+        try {
+            Scanner input = new Scanner(classFile);
+
+
+        } catch (FileNotFoundException e) {
+        }
+
+        return (Class[]) arrayList.toArray();
     }
 
 
