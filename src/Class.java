@@ -18,7 +18,7 @@ public class Class {
     public Class(int crn, String name, ArrayList<ClassTime> classTime){
         this.crn = crn;
         this.name = name;
-        this.classTimes = new ArrayList<ClassTime>(classTime);
+        this.classTimes = new ArrayList<>(classTime);
     }
 
     /*
@@ -44,7 +44,7 @@ public class Class {
     }
 
     public ArrayList<ClassTime> getClassTimes(){
-        return new ArrayList<ClassTime>(this.classTimes);
+        return new ArrayList<>(this.classTimes);
     }
 
 }
