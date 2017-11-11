@@ -2,11 +2,16 @@ public class ClassName {
     private String name;
     private String department;
 
+    public ClassName(String department, String name) {
+        this.department = department;
+        this.name = name;
+    }
+
     public ClassName(String className){
         String[] deptCode = className.split(" ");
 
-        name = deptCode[0];
-        department = deptCode[1];
+        department = deptCode[0];
+        name = deptCode[1];
     }
 
     public String getDepartment() {
