@@ -74,16 +74,16 @@ public class ClassTime {
     }
 
     public String toString() {
-        return time + " " + type + " " + instructor + " " + room;
+        return type + ";" + time + ";" + instructor + ";" + room;
     }
 
     /**
      * Creates a ClassTime object form the given String.
-     * @param s time + " " + type + " " + instructor + " " + room
+     * @param s  type + " " + time + " " + instructor + " " + room
      * @return a ClassTime object
      */
     public static ClassTime fromString(String s){
-        String[] stringParts = s.split(" ");
+        String[] stringParts = s.split(";");
 
 
         boolean timeIsNumeric;
