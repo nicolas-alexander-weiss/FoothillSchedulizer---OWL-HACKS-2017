@@ -9,13 +9,27 @@ public class ClassName {
 
     /**
      * Takes className as CS1A and splits in CS and 1A
-     * @param className CS1A
+     * @param className e.g. CS1A
      */
     public ClassName(String className){
-        String[] deptCode = className.split(" ");
+        int digitIndex = 0;
+
+        // find the index of first number (name)
+        for (int i = 0; i < className.length(); i++) {
+            if (Character.isDigit(className.charAt(i))) {
+                digitIndex = i;
+                break;
+            }
+        }
+
+        // get the first digit of name
+        String firstDigit = String.valueOf(className.charAt(digitIndex));
+
+        // split department and name
+        String[] deptCode = className.split(String.valueOf(className.charAt(digitIndex)));
 
         department = deptCode[0];
-        name = deptCode[1];
+        name = firstDigit + deptCode[1];
     }
 
     public String getDepartment() {
