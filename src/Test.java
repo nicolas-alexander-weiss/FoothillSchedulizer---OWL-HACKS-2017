@@ -60,7 +60,9 @@ public class Test
         ArrayList<String> courses = new ArrayList<>();
 
         while (matcher.find()) {
-            courses.add(matcher.group());
+            String temp = matcher.group();
+            temp = temp.substring(0, temp.length() - 6);
+            courses.add(temp);
         }
 
         for (int i = 0; i < courses.size(); i++) {
@@ -69,6 +71,8 @@ public class Test
             String className;
             String instructor = "IDK";
             String type;
+            int time;
+            String room;
 
             crn = Integer.parseInt(temp.substring(0,5));
 
@@ -82,6 +86,7 @@ public class Test
             matcher = pattern.matcher(temp);
             if (matcher.find()) {
                 instructor = matcher.group();
+                temp = temp.substring(0,matcher.start() - 1) + temp.substring(matcher.end());
             }
             temp = temp.substring(13);
 
@@ -92,11 +97,16 @@ public class Test
             type = temp.substring(0, endIndex);
             temp = temp.substring(endIndex + 1);
 
+            endIndex = temp.lastIndexOf(' ');
+            room = temp.substring(endIndex + 1);
+            temp = temp.substring(0, endIndex);
+
             System.out.println(temp);
             System.out.println("CRN: " + crn);
             System.out.println("Class Name: " + className);
             System.out.println("Instructor: " + instructor);
-            System.out.println("Type: " + type + "\n");
+            System.out.println("Type: " + type);
+            System.out.println("Room: " + room + "\n");
         }
 
 
