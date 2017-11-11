@@ -1,3 +1,5 @@
+import java.io.File;
+
 public class ClassLoader {
     private ClassLoader(){
 
@@ -11,6 +13,11 @@ public class ClassLoader {
      * @return class file found
      */
     public static boolean classExists(String depmt, String name){
-
+        String filePath = "resources/" + depmt.toUpperCase() + "/" + name.toUpperCase();
+        return (new File(filePath)).exists();
     }
+
+
+
+
 }
