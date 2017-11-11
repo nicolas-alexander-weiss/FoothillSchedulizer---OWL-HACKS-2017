@@ -1,9 +1,12 @@
+import com.sun.deploy.util.StringUtils;
+
 public class ClassTime {
 
     private int time;
-    private String room;
+
     private String type;
     private String instructor;
+    private String room;
 
     /**
      * Constructor for ClassTime
@@ -71,6 +74,31 @@ public class ClassTime {
     }
 
     public String toString() {
-        return "Time: " + time + " | Type: " + type + " | Instructor: " + instructor + " | Room: " + room;
+        return time + " " + type + " " + instructor + " " + room;
+    }
+
+    /**
+     * Creates a ClassTime object form the given String.
+     * @param s time + " " + type + " " + instructor + " " + room
+     * @return a ClassTime object
+     */
+    public static ClassTime fromString(String s){
+        String[] stringParts = s.split(" ");
+
+
+        boolean timeIsNumeric;
+        int time = 0;
+        try{
+            time = Integer.parseInt(stringParts[0]);
+            timeIsNumeric = true;
+        }catch (Exception ex){
+            timeIsNumeric = false;
+        }
+
+        if(stringParts.length != 4 || timeIsNumeric){
+            return null;
+        }else{
+            return new ClassTime(time,stringParts[3], stringParts[1], stringParts[2]);
+        }
     }
 }
