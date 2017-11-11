@@ -7,6 +7,10 @@ public class ClassName {
         this.name = name;
     }
 
+    /**
+     * Takes className as CS1A and splits in CS and 1A
+     * @param className CS1A
+     */
     public ClassName(String className){
         String[] deptCode = className.split(" ");
 
