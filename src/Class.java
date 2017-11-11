@@ -65,11 +65,33 @@ public class Class {
      * Format:
      * //crn as int//
      * //ClassName//
+     * //classTime1.toString()//
+     * ...
+     * //classTimeN.toString()//
      * @param s
      * @return
      */
     public static Class fromString(String s){
+        String[] lines = s.split("\n");
+        ArrayList<ClassTime> classTimes = new ArrayList<>();
 
+        boolean crnIsNumeric;
+        int crn = 0;
+        try{
+            crn = Integer.parseInt(lines[0]);
+            crnIsNumeric = true;
+        }catch (Exception ex){
+            crnIsNumeric = false;
+        }
+
+        if(!(lines.length > 2) || crnIsNumeric){
+            return null;
+        }else{
+            for(int i = 2; i < lines.length; i++){
+                classTimes.add(ClassTime.fromString(lines[i]));
+            }
+            return new Class(crn, lines[1], classTimes);
+        }
     }
 
 }
