@@ -156,80 +156,89 @@ public class Test
         for(File file: dir.listFiles())
             if (!file.isDirectory())
                 file.delete();
+        dir = new File("resources/classes/PHYS");
+        for(File file: dir.listFiles())
+            if (!file.isDirectory())
+                file.delete();
 
-        String inputFileName = "resources/inputfiles/math.txt";
+        ArrayList<String> inputFileNames = new ArrayList<>();
+        String inputFileName = "resources/inputfiles/physics.txt";
+        inputFileNames.add((inputFileName));
+        inputFileName = "resources/inputfiles/math.txt";
+        inputFileNames.add((inputFileName));
 
-        Scanner fileReader = new Scanner(new File(inputFileName));
+        for (int nfile = 0; nfile < inputFileNames.size(); nfile++) {
 
-        String in = "";  //Stringbuilder!!
+            Scanner fileReader = new Scanner(new File(inputFileNames.get(nfile)));
 
-        boolean stay = true;
+            String in = "";  //Stringbuilder!!
 
-        while(stay){
-            try{
-                in += (" " + fileReader.nextLine());
-            }catch (Exception ex){
-                stay = false;
+            boolean stay = true;
+
+            while (stay) {
+                try {
+                    in += (" " + fileReader.nextLine());
+                } catch (Exception ex) {
+                    stay = false;
+                }
             }
-        }
 
-        String question = in;
-        question = question.replace("\n", "").replace("\r", "");
-        System.out.println(question);
+            String question = in;
+            question = question.replace("\n", "").replace("\r", "");
 
 
-        String regex = "(\\d{5}.+?)Class";
+            String regex = "(\\d{5}.+?)Class";
 
-        Pattern pattern = Pattern.compile(regex);
-        Matcher matcher = pattern.matcher(question);
-        // Check all occurrences
+            Pattern pattern = Pattern.compile(regex);
+            Matcher matcher = pattern.matcher(question);
+            // Check all occurrences
 
-        ArrayList<String> courses = new ArrayList<>();
-
-        while (matcher.find()) {
-            String temp = matcher.group();
-            temp = temp.substring(0, temp.length() - 6);
-            courses.add(temp);
-        }
-
-        for (int i = 0; i < courses.size(); i++) {
-            String temp = courses.get(i);
-            int crn;
-            String className;
-            String instructor = "IDK";
-            String type;
-            ArrayList<Integer> classTimes;
-            String room;
-
-
-            crn = Integer.parseInt(temp.substring(0,5));
-
-            temp = temp.substring(12);
-
-            temp = removeGarbage(temp);
-
-            className = temp.substring(0,9);
-
-
-            temp = temp.substring(13);
-
-            temp = removeGarbage(temp);
-
-            regex = "((?:L|T).+?(?:ONLINE|\\d{4}|SV\\d{3}|SV(?:$|\\t)))";
-
-            pattern = Pattern.compile(regex);
-            matcher = pattern.matcher(temp);
-
-            ArrayList<String> timesToParse = new ArrayList<>();
-
-            String tempCopy = temp;
+            ArrayList<String> courses = new ArrayList<>();
 
             while (matcher.find()) {
-                String capture = matcher.group();
-                timesToParse.add(capture);
-                temp = temp.substring(0, matcher.start()) + temp.substring(matcher.end());
-                matcher = pattern.matcher(temp);
+                String temp = matcher.group();
+                temp = temp.substring(0, temp.length() - 6);
+                courses.add(temp);
             }
+
+            for (int i = 0; i < courses.size(); i++) {
+                String temp = courses.get(i);
+                int crn;
+                String className;
+                String instructor = "IDK";
+                String type;
+                ArrayList<Integer> classTimes;
+                String room;
+
+
+                crn = Integer.parseInt(temp.substring(0, 5));
+
+                temp = temp.substring(12);
+
+                temp = removeGarbage(temp);
+
+                className = temp.substring(0, 9);
+
+
+                temp = temp.substring(13);
+
+                temp = removeGarbage(temp);
+
+                regex = "((?:L|T).+?(?:ONLINE|\\d{4}|SV\\d{3}|SV(?:$|\\t)))";
+
+                pattern = Pattern.compile(regex);
+                matcher = pattern.matcher(temp);
+
+                ArrayList<String> timesToParse = new ArrayList<>();
+
+                String tempCopy = temp;
+
+                while (matcher.find()) {
+                    String capture = matcher.group();
+                    timesToParse.add(capture);
+                    temp = temp.substring(0, matcher.start()) + temp.substring(matcher.end());
+                    matcher = pattern.matcher(temp);
+                }
 
 
 
@@ -253,8 +262,8 @@ public class Test
 
             //classTimes = convertTimeToInt(temp);*/
 
-            ArrayList<ClassTime> myClassTimes;
-            myClassTimes = createClassTime(timesToParse);
+                ArrayList<ClassTime> myClassTimes;
+                myClassTimes = createClassTime(timesToParse);
 
             /*
             System.out.println(tempCopy);
@@ -267,8 +276,9 @@ public class Test
                 System.out.println(myClassTimes.get(mCounter));
             }*/
 
-            Class myClass = new Class(crn, className, myClassTimes);
-            System.out.println(myClass.toString());
+                if (myClassTimes.size() > 0) {
+                    Class myClass = new Class(crn, className, myClassTimes);
+                    System.out.println(myClass.toString());
 
 
 
@@ -280,18 +290,20 @@ public class Test
             /*for (int k = 0; k < classTimes.size(); k++) {
                 System.out.println("Time: " + classTimes.get(k));
             }*/
-            System.out.println();
-            String[] classNameParts = className.split("-");
-            String outputFileName = "resources/classes/" + classNameParts[0] + "/" + classNameParts[1];
-            BufferedWriter fileWriter;
+                    System.out.println();
+                    String[] classNameParts = className.split("-");
+                    String outputFileName = "resources/classes/" + classNameParts[0] + "/" + classNameParts[1];
+                    BufferedWriter fileWriter;
 
 
-            try {
-                fileWriter = new BufferedWriter(new FileWriter(outputFileName,true));
-                fileWriter.write(myClass.toString() + "\n\n");
-                fileWriter.flush();
-            } catch (IOException e) {
-                e.printStackTrace();
+                    try {
+                        fileWriter = new BufferedWriter(new FileWriter(outputFileName, true));
+                        fileWriter.write(myClass.toString() + "\n\n");
+                        fileWriter.flush();
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    }
+                }
             }
         }
 
