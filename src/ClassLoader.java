@@ -55,12 +55,27 @@ public class ClassLoader {
         String filePath = "resources/" + className.getDepartment().toUpperCase() + "/" + className.getName().toUpperCase();
         File classFile = new File(filePath);
         ArrayList<Class> arrayList = new ArrayList<>();
+        StringBuilder fileString = new StringBuilder("");
         try {
             Scanner input = new Scanner(classFile);
-
-
-        } catch (FileNotFoundException e) {
+            fileString.append(input.nextLine());
+            while(true){
+                fileString.append("\n" + input.nextLine());
+            }
+        } catch (Exception e) {
         }
+
+        String fileS = fileString.toString();
+
+        String[] classStrings = fileS.split("\n\n");
+
+        for(int i = 0; i < classStrings.length; i++){
+            Class c = Class.fromString(classStrings[i]);
+            if(c!=null){
+                arrayList.add(c);
+            }
+        }
+
 
         return (Class[]) arrayList.toArray();
     }
