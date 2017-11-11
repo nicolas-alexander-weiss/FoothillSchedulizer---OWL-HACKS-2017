@@ -274,16 +274,13 @@ public class Test
 
             System.out.println(tempCopy);
             System.out.println(temp);
-            for (int mCounter = 0; mCounter < myClassTimes.size(); mCounter++) {
-                System.out.println(myClassTimes.get(mCounter));
-            }
-
-            for (int mCounter = 0; mCounter < timesToParse.size(); mCounter++) {
-                System.out.println(timesToParse.get(mCounter));
-            }
 
             System.out.println("CRN: " + crn);
             System.out.println("Class Name: " + className);
+
+            for (int mCounter = 0; mCounter < myClassTimes.size(); mCounter++) {
+                System.out.println(myClassTimes.get(mCounter));
+            }
 
 
 
