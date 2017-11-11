@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class ScheduleRank {
     // Create a Professor object with the following!
     //      Difficulty Level
@@ -6,19 +8,19 @@ public class ScheduleRank {
     // Ensure the Professor get passed on the possibleSchedules
 
 
-    private ArrsyList<schedule> possibleSchedules; // pass possible schedules here
+    private ArrayList<Schedule> possibleSchedules; // pass possible schedules here
 
     // int startPreference
     // int endPreference
 
-    private int getTimePreference[] {
+    private int[] getTimePreference() {
         // Prompt User for preference Time Start
         // Store input to getTimePreference[0]
         // Prompt User for preference Time End
         // Store input to getTimePreference[1]
     }
 
-    private void rankingSchedules {
+    private void rankingSchedules() {
         // get Time Ranking for each possible Schedule
             // through timeRank()
 
@@ -67,7 +69,7 @@ public class ScheduleRank {
 
 
 
-    private int professorRank {
+    private int professorRank() {
         // open professor object
         // int easygrades = professor.ratings - professor.difficulty
         // int qualityTeacher = professor.ratings + professor.difficulty
