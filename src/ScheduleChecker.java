@@ -15,6 +15,10 @@ public class ScheduleChecker {
         computePossibleSchedules();
     }
 
+    public Schedule[] getPossibleSchedules(){
+        return (Schedule[]) possibleSchedules.toArray();
+    }
+
     private void initIterator() {
         iterator = new int[classes.length];
         for(int i = 0; i < iterator.length; i++){
@@ -45,7 +49,7 @@ public class ScheduleChecker {
     private boolean recIncrement(int index) {
         if(index >= classes.length){
             return false;
-        }else if(iterator[index] >= classes[index].length){
+        }else if(iterator[index] >= classes[index].length - 1){
             iterator[index] = 0;
             return recIncrement(++index);
         }else{
