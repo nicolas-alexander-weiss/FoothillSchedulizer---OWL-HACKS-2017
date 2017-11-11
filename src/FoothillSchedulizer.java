@@ -19,20 +19,22 @@ public class FoothillSchedulizer {
             inputClasses[i] = in.nextLine();
         }
 
-        // check how many valid className
-        int validClassCounter = 0;
-        for (int i = 0; i < numClass; i++) {
+        // put all the valid classes into an ArrayList
+        ArrayList<ClassName> validClassList = new ArrayList<>();
+        for (int i = 0; i < numClass; i++)
             if (ClassLoader.classExists(new ClassName(inputClasses[i])))
-                ++validClassCounter;
-        }
+                validClassList.add(new ClassName(inputClasses[i]));
 
-        ClassName[] validClasses = new ClassName[validClassCounter];
-        /*
-        for (int i = 0; i < validClassCounter; i++) {
-            ClassLoader.loadClassesWithoutCheck(validClasses);
-        }
-        */
+        // move all the ArrayList elements into an array
+        ClassName[] validClasses = new ClassName[validClassList.size()];
+        validClasses = validClassList.toArray(validClasses);
+
+        // load all the valid input classes into 2D Class object
         Class[][] classes = ClassLoader.loadClassesWithoutCheck(validClasses);
+
+        // get schedule possibility
+        ScheduleChecker scheduleChecker = new ScheduleChecker(classes);
+        Schedule[] schedules = scheduleChecker.getPossibleSchedules();
 
     }
 }
