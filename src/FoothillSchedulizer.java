@@ -21,9 +21,21 @@ public class FoothillSchedulizer {
 
         // put all the valid classes into an ArrayList
         ArrayList<ClassName> validClassList = new ArrayList<>();
-        for (int i = 0; i < numClass; i++)
+        for (int i = 0; i < numClass; i++) {
+            int digitCounter = 0;
+            for (int j = 0; j < inputClasses[i].length(); j++) {
+                if (Character.isDigit(inputClasses[i].charAt(j)))
+                    ++digitCounter;
+            }
+
+            if (digitCounter == 1)
+                inputClasses[i] = "00" + inputClasses[i];
+            else if (digitCounter == 2)
+                inputClasses[i] = "0" + inputClasses[i];
+
             if (ClassLoader.classExists(new ClassName(inputClasses[i])))
                 validClassList.add(new ClassName(inputClasses[i]));
+        }
 
         // move all the ArrayList elements into an array
         ClassName[] validClasses = new ClassName[validClassList.size()];
