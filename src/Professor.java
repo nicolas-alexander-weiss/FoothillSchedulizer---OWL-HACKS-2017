@@ -1,9 +1,4 @@
 public class Professor {
-    // Create a Professor object with the following!
-    //      Difficulty Level
-    //      Ratings Average (out of 5)
-    //      Number of Ratings
-    // Ensure the Professor get passed on the possibleSchedules
     private int difficulty, numRatings;
     private double ratingsAverage;
 

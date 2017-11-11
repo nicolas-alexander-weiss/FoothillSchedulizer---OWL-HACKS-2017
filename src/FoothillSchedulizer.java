@@ -19,6 +19,17 @@ public class FoothillSchedulizer {
             inputClasses[i] = in.nextLine();
         }
 
-        
+        // check how many valid className
+        int validClassCounter = 0;
+        for (int i = 0; i < numClass; i++) {
+            if (ClassLoader.classExists(new ClassName(inputClasses[i])))
+                ++validClassCounter;
+        }
+
+        ClassName[] validClasses = new ClassName[validClassCounter];
+        for (int i = 0; i < validClassCounter; i++) {
+            ClassLoader.loadClassesWithoutCheck(validClasses);
+        }
+
     }
 }
