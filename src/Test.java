@@ -18,7 +18,6 @@ public class Test
         Document document = Jsoup.connect(url).get();
 
         String question = document.select(".listings").text();
-        System.out.println("Question: " + question + "\n");
 
         String outputFileName = "resources/output";
         BufferedWriter fileWriter;
@@ -29,10 +28,34 @@ public class Test
         Matcher matcher = pattern.matcher(question);
         // Check all occurrences
 
-        ArrayList<String> stringsss = new ArrayList<>();
+        ArrayList<String> courses = new ArrayList<>();
 
         while (matcher.find()) {
-            System.out.println(matcher.group());
+            courses.add(matcher.group());
+        }
+
+        for (int i = 0; i < courses.size(); i++) {
+            String temp = courses.get(i);
+            int tempIndex = -1;
+            int crn;
+            String className;
+
+            crn = Integer.parseInt(temp.substring(0,5));
+
+            temp = temp.substring(12);
+            int j = 0;
+            if (!Character.isAlphabetic(temp.charAt(0))) {
+                while (tempIndex == -1) {
+                    if (Character.isAlphabetic(temp.charAt(j)))
+                        tempIndex = j;
+                    j++;
+                }
+                temp = temp.substring(tempIndex);
+            }
+            className = temp.substring(0,9);
+            System.out.println(temp);
+            System.out.println("CRN: " + crn);
+            System.out.println("Class Name: " + className);
         }
 
         /*
@@ -48,9 +71,7 @@ public class Test
             e.printStackTrace();
         }
 
-        for (int i = 0; i < stringsss.size(); i++) {
-            System.out.println(stringsss.get(i) + "\n");
-        }
+
 
         try {
             fileWriter = new BufferedWriter(new FileWriter(outputFileName + ".txt"));
