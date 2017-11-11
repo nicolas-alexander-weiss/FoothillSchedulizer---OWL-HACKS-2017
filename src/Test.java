@@ -12,6 +12,35 @@ import java.util.regex.Pattern;
 
 public class Test
 {
+
+    public static String removeGarbage(String temp) {
+        int tempIndex = -1;
+        int j = 0;
+        if (!Character.isAlphabetic(temp.charAt(0))) {
+            while (tempIndex == -1) {
+                if (Character.isAlphabetic(temp.charAt(j)))
+                    tempIndex = j;
+                j++;
+            }
+            temp = temp.substring(tempIndex);
+        }
+        return temp;
+    }
+
+    public static String startAtL(String temp) {
+        int tempIndex = -1;
+        int j = 0;
+        if (temp.charAt(0) != 'L') {
+            while (tempIndex == -1) {
+                if (temp.charAt(j) == 'L')
+                    tempIndex = j;
+                j++;
+            }
+            temp = temp.substring(tempIndex);
+        }
+        return temp;
+    }
+
     public static void main(String[] args) throws Exception
     {
         String url = "https://www.foothill.edu/anthropology/schedule.php";
@@ -31,48 +60,57 @@ public class Test
         ArrayList<String> courses = new ArrayList<>();
 
         while (matcher.find()) {
-            courses.add(matcher.group());
+            String temp = matcher.group();
+            temp = temp.substring(0, temp.length() - 6);
+            courses.add(temp);
         }
 
         for (int i = 0; i < courses.size(); i++) {
             String temp = courses.get(i);
-            int tempIndex = -1;
             int crn;
             String className;
+            String instructor = "IDK";
+            String type;
+            int time;
+            String room;
 
             crn = Integer.parseInt(temp.substring(0,5));
 
             temp = temp.substring(12);
-            int j = 0;
-            if (!Character.isAlphabetic(temp.charAt(0))) {
-                while (tempIndex == -1) {
-                    if (Character.isAlphabetic(temp.charAt(j)))
-                        tempIndex = j;
-                    j++;
-                }
-                temp = temp.substring(tempIndex);
-            }
+
+            temp = removeGarbage(temp);
             className = temp.substring(0,9);
+
+            regex = "\\w*, [^\\s]+";
+            pattern = Pattern.compile(regex);
+            matcher = pattern.matcher(temp);
+            if (matcher.find()) {
+                instructor = matcher.group();
+                temp = temp.substring(0,matcher.start() - 1) + temp.substring(matcher.end());
+            }
+            temp = temp.substring(13);
+
+            temp = startAtL(temp);
+
+            int endIndex;
+            endIndex = temp.indexOf(' ');
+            type = temp.substring(0, endIndex);
+            temp = temp.substring(endIndex + 1);
+
+            endIndex = temp.lastIndexOf(' ');
+            room = temp.substring(endIndex + 1);
+            temp = temp.substring(0, endIndex);
+
             System.out.println(temp);
             System.out.println("CRN: " + crn);
             System.out.println("Class Name: " + className);
+            System.out.println("Instructor: " + instructor);
+            System.out.println("Type: " + type);
+            System.out.println("Room: " + room + "\n");
         }
+
 
         /*
-        try {
-            while (matcher.find() ) {
-                int i = matcher.start();
-                if (i != 0) {
-                    stringsss.add(wrapString.substring(0,i));
-                    wrapString = wrapString.substring(i);
-                }
-            }
-        } catch (IndexOutOfBoundsException e) {
-            e.printStackTrace();
-        }
-
-
-
         try {
             fileWriter = new BufferedWriter(new FileWriter(outputFileName + ".txt"));
             fileWriter.write(wrapString);
