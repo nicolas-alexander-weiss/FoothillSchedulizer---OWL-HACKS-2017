@@ -3,9 +3,10 @@ public class ClassName {
     private String department;
 
     public ClassName(String className){
+        String[] deptCode = className.split(" ");
 
-        this.name = name;
-        this.department = department;
+        name = deptCode[0];
+        department = deptCode[1];
     }
 
     public String getDepartment() {
