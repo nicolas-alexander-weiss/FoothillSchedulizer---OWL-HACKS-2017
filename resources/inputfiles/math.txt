@@ -1,0 +1,475 @@
+Skip to Main Content
+CALENDAR	NEWS	EVENTS	DIRECTORY	LIBRARY	BOOKSTORE	MAP	MYPORTAL	CLASS SCHEDULE	ONLINE LEARNINGSearch
+INFO FOR
+Site Logo
+About Us	Programs & Courses	Apply & Register	Costs & Financial Aid	Student Services	Student Life & Campus Resources	Sunnyvale Centersubpage flowers image
+Mathematics
+HomeMathematicsClass Schedule
+Class ScheduleMathematics (MATH)Change active quarter:  Select
+
+
+133 courses/sections being shown for Winter 2018 (Note: Results limited to 400)
+
+Legend:	• = Online   % = Honors Course   √ = Off Campus	Second Spring	Evening	Late Start
+M = Monday   T = Tuesday   W = Wednesday   Th = Thursday   F = Friday   S = Saturday   U = Sunday
+Use the link "TEXTS" to view textbook and/or other materials for course/section on the Bookstore Website.
+CRN #	Section ID	Type	Time	Days	Instructor	Location
+Mathematics	foothill.edu/psme/
+Physical Sciences, Mathematics & Engineering Division	(650) 949-7259
+MATH 1A, 10, 11, 44, 49, 51, 105, 220, 224, 230, 230J, 234: If you have not taken the prerequisite(s) at Foothill College, you will not be allowed to register without an equivalency form from the counseling office or a waiver from the division office.
+
+MATH 300 is now NCBS 401A and 401B. Please look under the non-credit courses.
+MATH 1A :: CALCULUS	5 Units
+Introduction to differential calculus, including limits, derivatives and their applications to curve-sketching, families of functions, and optimization.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisite: Satisfactory score on the mathematics placement test or MATH 48C.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249; not open to students with credit in MATH 1AH.
+31926
+TEXTS	MATH-001A-01	Lecture	08:00 AM-08:50 AM	F	LEE, DEBBIE	5609
+ 	Lecture	08:00 AM-09:50 AM	MW	LEE, DEBBIE	5609
+Class runs from 01/08/2018 - 03/30/2018. MATH-001A-01: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30851
+TEXTS	MATH-001A-02	Lecture	08:00 AM-09:50 AM	TTh	LITRUS, MATTHEW	5609
+ 	Lecture	09:00 AM-09:50 AM	F	LITRUS, MATTHEW	5609
+Class runs from 01/08/2018 - 03/30/2018. MATH-001A-02: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30186
+TEXTS	MATH-001A-03	Lecture	10:00 AM-10:50 AM	F	NGHIEM, DANIEL	4601
+ 	Lecture	10:00 AM-11:50 AM	MW	NGHIEM, DANIEL	4601
+Class runs from 01/08/2018 - 03/30/2018. MATH-001A-03: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30187
+TEXTS	MATH-001A-04	Lecture	11:00 AM-11:50 AM	F	LITRUS, MATTHEW	5614
+ 	Lecture	10:00 AM-11:50 AM	TTh	LITRUS, MATTHEW	5614
+Class runs from 01/08/2018 - 03/30/2018. MATH-001A-04: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+31929
+TEXTS	MATH-001A-05	Lecture	12:00 PM-01:25 PM	TThF	LE, HUONG	5502
+Class runs from 01/08/2018 - 03/30/2018. MATH-001A-05: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30529
+TEXTS	MATH-001A-06	Lecture	01:30 PM-03:45 PM	TTh	LAM, PHUONG	4301
+Class runs from 01/08/2018 - 03/30/2018. MATH-001A-06: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30202
+TEXTS	MATH-001A-07	Lecture	06:00 PM-08:15 PM	TTh	NI, YUH	4606
+Class runs from 01/08/2018 - 03/30/2018. MATH-001A-07: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+31399
+TEXTS	• MATH-001A-08W	Lecture	TBA	TBA	WONG, WINNIE	ONLINE
+Class runs from 01/08/2018 - 03/30/2018. MATH-001B-08W: Offered via the internet. After registering, you MUST refer to "Course Information" at https://foothill.edu/onlinelearning/ for information on how to begin. ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+MATH 1B :: CALCULUS	5 Units
+Introduction to integral calculus including definite and indefinite integrals, the first and second Fundamental Theorems and their applications to geometry, physics, and the solution of elementary differential equations.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisite: MATH 1A or 1AH.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249.
+30524
+TEXTS	MATH-001B-01	Lecture	09:00 AM-09:50 AM	F	PARK LEE, YOUNG HEE	4602
+ 	Lecture	08:00 AM-09:50 AM	TTh	PARK LEE, YOUNG HEE	4602
+Class runs from 01/08/2018 - 03/30/2018. MATH-001B-01: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30203
+TEXTS	MATH-001B-02	Lecture	10:00 AM-11:50 AM	MW	CEMBELLIN, ZACHARY	4606
+ 	Lecture	10:00 AM-10:50 AM	F	CEMBELLIN, ZACHARY	4606
+Class runs from 01/08/2018 - 03/30/2018. MATH-001B-02: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30204
+TEXTS	MATH-001B-03	Lecture	10:00 AM-11:50 AM	TTh	STANLEY, BRIAN	4501
+ 	Lecture	11:00 AM-11:50 AM	F	STANLEY, BRIAN	4501
+Class runs from 01/08/2018 - 03/30/2018. MATH-001B-03: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+31951
+TEXTS	MATH-001B-04	Lecture	01:30 PM-03:45 PM	TTh	PARK LEE, YOUNG HEE	4604
+Class runs from 01/08/2018 - 03/30/2018. MATH-001B-04: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+31952
+TEXTS	MATH-001B-05	Lecture	06:00 PM-08:15 PM	TTh	NOSRATIEH, BITA	4603
+Class runs from 01/08/2018 - 03/30/2018. MATH-001B-05: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+32066
+TEXTS	• MATH-001B-06W	Lecture	TBA	TBA	WILLIAMS, SARAH	ONLINE
+Class runs from 01/08/2018 - 03/30/2018. MATH-001B-06W: Offered via the internet. After registering, you MUST refer to "Course Information" at https://foothill.edu/onlinelearning/ for information on how to begin. ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+MATH 1C :: CALCULUS	5 Units
+Introduction to functions of more than one variable, including vectors, partial differentiation, the gradient, contour diagrams and optimization. Additional topics include infinite series, convergence and Taylor series.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisite: MATH 1B.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249.
+30206
+TEXTS	MATH-001C-01	Lecture	09:00 AM-09:50 AM	F	ANDERSON, JEFFREY	4606
+ 	Lecture	08:00 AM-09:50 AM	TTh	ANDERSON, JEFFREY	4606
+Class runs from 01/08/2018 - 03/30/2018. MATH-001C-01: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30207
+TEXTS	MATH-001C-02	Lecture	10:00 AM-11:50 AM	MW	KNOBEL, MARC	4602
+ 	Lecture	10:00 AM-10:50 AM	F	KNOBEL, MARC	4602
+Class runs from 01/08/2018 - 03/30/2018. MATH-001C-02: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30208
+TEXTS	MATH-001C-03	Lecture	11:00 AM-11:50 AM	F	ANDERSON, JEFFREY	4602
+ 	Lecture	10:00 AM-11:50 AM	TTh	ANDERSON, JEFFREY	4602
+Class runs from 01/08/2018 - 03/30/2018. MATH-001C-03: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30604
+TEXTS	MATH-001C-04	Lecture	01:30 PM-03:45 PM	MW	KNOBEL, MARC	4605
+Class runs from 01/08/2018 - 03/30/2018. MATH-001C-04: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+MATH 1D :: CALCULUS	5 Units
+Introduction to integration of functions of more than one variable, including double, triple, flux and line integrals. Additional topics include polar, cylindrical and spherical coordinates, parameterization, vector fields, path-independence, divergence and curl.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisite: MATH 1C.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249.
+30209
+TEXTS	MATH-001D-01	Lecture	10:00 AM-10:50 AM	F	PARK LEE, YOUNG HEE	4603
+ 	Lecture	10:00 AM-11:50 AM	MW	PARK LEE, YOUNG HEE	4603
+Class runs from 01/08/2018 - 03/30/2018. MATH-001D-01: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30605
+TEXTS	MATH-001D-02	Lecture	10:00 AM-11:50 AM	TTh	PARK LEE, YOUNG HEE	4603
+ 	Lecture	11:00 AM-11:50 AM	F	PARK LEE, YOUNG HEE	4603
+Class runs from 01/08/2018 - 03/30/2018. MATH-001D-02: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+31407
+TEXTS	√ MATH-001D-D03	Lecture	09:00 AM-09:50 AM	MTF	LUBLIN, DOUGLAS	LAHS
+ 	Lecture	08:50 AM-10:30 AM	W	LUBLIN, DOUGLAS	LAHS
+Class runs from 01/08/2018 - 03/30/2018.
+MATH 2A :: DIFFERENTIAL EQUATIONS	5 Units
+Differential equations and selected topics of mathematical analysis.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisite: MATH 1C.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249; not open to students with credit in MATH 12A.
+30210
+TEXTS	MATH-002A-01	Lecture	08:00 AM-09:50 AM	MW	PARK LEE, YOUNG HEE	4604
+ 	Lecture	08:00 AM-08:50 AM	F	PARK LEE, YOUNG HEE	4604
+Class runs from 01/08/2018 - 03/30/2018. MATH-002A-01: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30211
+TEXTS	MATH-002A-02	Lecture	06:00 PM-08:15 PM	TTh	TAI, LIANG HSUAN	4602
+Class runs from 01/08/2018 - 03/30/2018. MATH-002A-02: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+MATH 2B :: LINEAR ALGEBRA	5 Units
+A first course in Linear Algebra, including systems of linear equations, matrices, linear transformations, determinants, abstract vector spaces and subspaces, eigenvalues and eigenvectors, inner product spaces and orthogonality, and selected applications of these topics.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisite: MATH 1C.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249.
+30218
+TEXTS	MATH-002B-01	Lecture	10:00 AM-11:50 AM	TTh	LEE, DEBBIE	4605
+ 	Lecture	11:00 AM-11:50 AM	F	LEE, DEBBIE	4605
+Class runs from 01/08/2018 - 03/30/2018. MATH-002B-01: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30606
+TEXTS	MATH-002B-02	Lecture	06:00 PM-08:15 PM	TTh	SAWKA, JOHN	5610
+Class runs from 01/08/2018 - 03/30/2018. MATH-002B-02: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+MATH 10 :: ELEMENTARY STATISTICS	5 Units
+An introduction to modern methods of descriptive statistics, including collection and presentation of data; measures of central tendency and dispersion; probability; sampling distributions; hypothesis testing and statistical inference; linear regression and correlation; analysis of variance; use of microcomputers for statistical calculations. Illustrations taken from the fields of business, economics, medicine, engineering, education, psychology, sociology, social sciences, life science, and health science.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisite: Satisfactory score on the mathematics placement test or MATH 105 or 108.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249; UC will grant transfer credit for a maximum of one course from the following: PSYC 7, SOC 7, MATH 10 or 17—students are strongly encouraged to meet with a counselor for appropriate course selection.
+30530
+TEXTS	MATH-010.-01	Lecture	08:00 AM-08:50 AM	F	TOMUTIU, MARIA	4606
+ 	Lecture	08:00 AM-09:50 AM	MW	TOMUTIU, MARIA	4606
+Class runs from 01/08/2018 - 03/30/2018. MATH-010.-01: TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Some sections may use online content in place of, or in addition to a textbook. Please contact the instructor for details. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+32022
+TEXTS	MATH-010.-02	Lecture	09:00 AM-09:50 AM	F	MUNOZ, SARAH	4601
+ 	Lecture	08:00 AM-09:50 AM	TTh	MUNOZ, SARAH	4601
+Class runs from 01/08/2018 - 03/30/2018. MATH-010.-02: TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Some sections may use online content in place of, or in addition to a textbook. Please contact the instructor for details. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30220
+TEXTS	MATH-010.-03Y	Lecture	10:00 AM-11:30 AM	M	MARTINEZ, RICARDO	5502
+ 	Lecture	TBA	TBA	MARTINEZ, RICARDO	ONLINE
+Class runs from 01/08/2018 - 03/30/2018. MATH-010.-03Y: TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Additional costs for online materials or content in place of or in addition to a textbook may be required. This section of Math 10 will employ a "flipped classroom" teaching methodology, requiring a moderate amount of lecture material to be acquired from online resources. Please contact the instructor for details.
+30221
+TEXTS	MATH-010.-04Y	Lecture	10:00 AM-11:30 AM	T	MUDGE, RACHEL	5502
+ 	Lecture	TBA	TBA	MUDGE, RACHEL	ONLINE
+Class runs from 01/08/2018 - 03/30/2018.
+30222
+TEXTS	MATH-010.-05	Lecture	10:00 AM-11:50 AM	TTh	MORRISS, PATRICK	5501
+ 	Lecture	11:00 AM-11:50 AM	F	MORRISS, PATRICK	5501
+Class runs from 01/08/2018 - 03/30/2018. MATH-010.-05: TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Some sections may use online content in place of, or in addition to a textbook. Please contact the instructor for details. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30855
+TEXTS	MATH-010.-06	Lecture	12:00 PM-01:25 PM	TThF	FRANCISCO, MARNIE	4603
+Class runs from 01/08/2018 - 03/30/2018. MATH-010.-06: TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Some sections may use online content in place of, or in addition to a textbook. Please contact the instructor for details. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30856
+TEXTS	MATH-010.-07	Lecture	01:30 PM-03:45 PM	MW	PAPAY, LAURI	4603
+Class runs from 01/08/2018 - 03/30/2018. MATH-010.-07: TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Some sections may use online content in place of, or in addition to a textbook. Please contact the instructor for details. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30857
+TEXTS	MATH-010.-08	Lecture	01:30 PM-03:45 PM	TTh	ROBLEDO, LUCINDA	4605
+Class runs from 01/08/2018 - 03/30/2018. MATH-010.-08: TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Some sections may use online content in place of, or in addition to a textbook. Please contact the instructor for details. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+32084
+TEXTS	MATH-010.-09	Lecture	06:00 PM-08:15 PM	TTh	PSOMAS, NIKOLAS	4301
+Class runs from 01/08/2018 - 03/30/2018. MATH-010.-09: TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Some sections may use online content in place of, or in addition to a textbook. Please contact the instructor for details. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+31394
+TEXTS	• MATH-010.-10W	Lecture	TBA	TBA	MARTINEZ, RICARDO	ONLINE
+Class runs from 01/08/2018 - 03/30/2018. MATH-010.-10W: Offered via the internet. After registering, you MUST refer to "Course Information" at https://foothill.edu/onlinelearning/ for information on how to begin. TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+31395
+TEXTS	• MATH-010.-11W	Lecture	TBA	TBA	MUDGE, RACHEL	ONLINE
+Class runs from 01/08/2018 - 03/30/2018. MATH-010.-11W: Offered via the internet. After registering, you MUST refer to "Course Information" at https://foothill.edu/onlinelearning/ for information on how to begin. TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+32085
+TEXTS	• MATH-010.-12W	Lecture	TBA	TBA	MASKALEVICH, TATSIANA	ONLINE
+Class runs from 01/08/2018 - 03/30/2018. MATH-010.-12W: Offered via the internet. After registering, you MUST refer to "Course Information" at https://foothill.edu/onlinelearning/ for information on how to begin. TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+32193
+TEXTS	√ MATH-010.-50	Lecture	06:00 PM-08:15 PM	MW	PAPAY, LAURI	SV207
+Class runs from 01/08/2018 - 03/30/2018. MATH-010.-50: This course is offered at the Foothill College Sunnyvale Center located at 1070 Innovation Way in Sunnyvale. Please visit https://foothill.edu/sunnyvale/ for campus information and directions.
+MATH 12 :: CALCULUS FOR BUSINESS & ECONOMICS	5 Units
+A study of the techniques of differential and integral calculus, with an emphasis on the application of these techniques to problems in business and economics.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisite: MATH 48A.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249.
+32027
+TEXTS	MATH-012.-01Y	Lecture	10:00 AM-11:50 AM	TTh	KNOBEL, MARC	4220
+ 	Lecture	TBA	TBA	KNOBEL, MARC	ONLINE
+Class runs from 01/08/2018 - 03/30/2018. MATH-012.-01Y: Attendance at all in-class proctored exams required. Additional information about the course will be supplied by the instructor on/before the first class meeting. TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Some sections may use online content in place of, or in addition to a textbook. Please contact the instructor for details. Additional costs for online material or content in place of or in addition to a textbook may be required.
+32194
+TEXTS	√ MATH-012.-50	Lecture	06:00 PM-08:15 PM	TTh	WITSCHORIK, CHARLES	SV
+Class runs from 01/08/2018 - 03/30/2018. MATH-012.-50: This course is offered at the Foothill College Sunnyvale Center located at 1070 Innovation Way in Sunnyvale. Please visit https://foothill.edu/sunnyvale/ for campus information and directions. TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Some sections may use online content in place of, or in addition to a textbook. Please contact the instructor for details. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+MATH 17 :: INTEGRATED STATISTICS II	5 Units
+The second of two in the Statway sequence. Covers concepts and methods of statistics with an emphasis on data analysis. Topics include methods for collecting data, graphical and numerical descriptive statistics, correlation, simple linear regression, basic concepts of probability, confidence intervals and hypothesis tests for means and proportions, chi-square tests, and ANOVA. Application problems will be taken from the fields of business, economics, medicine, engineering, education, psychology, sociology and from culturally diverse situations. This sequence is recommended for students with majors that require no mathematics beyond freshman-level statistics.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisite: MATH 217.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249; UC will grant transfer credit for a maximum of one course from the following: PSYC 7, SOC 7, MATH 10 or 17—students are strongly encouraged to meet with a counselor for appropriate course selection; not open to students with credit in MATH 57.
+Formerly: MATH 57
+31160
+TEXTS	MATH-017.-01	Lecture	12:00 PM-02:15 PM	TTh	MUDGE, RACHEL	4602
+Class runs from 01/08/2018 - 03/30/2018. MATH-017.-01: Online version of textbook will be located at www.mystatway.org. Instructions on how to log in will be given during the first week of class. Online content will be used in place of, or in addition to a textbook. Students will be expected to access online work through campus labs several hours per week. Additional costs for online materials or content in place of or in addition to a textbook may be required. ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS.
+MATH 22 :: DISCRETE MATHEMATICS	5 Units
+Discrete mathematics: set theory, logic, Boolean algebra, methods of proof, mathematical induction, number theory, discrete probability, combinatorics, functions, relations, recursion, algorithm efficiencies, graphs, trees.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisites: C S 1A or 1AH; satisfactory score on the mathematics placement test or MATH 48C.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249; not open to students with credit in CIS 18 or C S 18.
+30225
+TEXTS	MATH-022.-01	Lecture	12:00 PM-01:25 PM	TThF	WITSCHORIK, CHARLES	5614
+Class runs from 01/08/2018 - 03/30/2018. MATH-022.-01: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+32182
+TEXTS	MATH-022.-03	Lecture	06:30 PM-08:45 PM	MW	FLORERO SALINAS, WILSON	4603
+Class runs from 01/08/2018 - 03/30/2018.
+MATH 44 :: MATH FOR THE LIBERAL ARTS	5 Units
+A survey of mathematical models and other tools to introduce the nonspecialist to the methods of quantitative reasoning. Problem solving by Polya's method with analytic, numeric, graphical, and verbal investigation. Selecting, constructing, and using mathematical models. Interpreting quantitative results in qualitative context. Emphasis on deductive reasoning and formal logic; algebraic, exponential, logarithmic, and trigonometric models; probability and the normal distribution; data analysis; and selected topics from discrete math, finite math, and statistics.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisite: Satisfactory score on the mathematics placement test or MATH 105 or 108.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249.
+31396
+TEXTS	MATH-044.-01	Lecture	01:30 PM-03:45 PM	MW	MORRISS, PATRICK	5614
+Class runs from 01/08/2018 - 03/30/2018. MATH-044.-01: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+MATH 48A :: PRECALCULUS I	5 Units
+Introduction to functions and families of functions including quadratics, polynomials, power and root functions, transformations of these functions, and their use in solving applications problems.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisite: Satisfactory score on the mathematics placement test or MATH 105 or 108.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249; UC credit for MATH 48A, B & C is limited to a maximum of 7.5 units for the combination or any portion of the series completed.
+31324
+TEXTS	MATH-048A-02	Lecture	10:00 AM-11:50 AM	MW	ZWACK, TERESA	5614
+ 	Lecture	10:00 AM-10:50 AM	F	ZWACK, TERESA	5614
+Class runs from 01/08/2018 - 03/30/2018. MATH-048A-02: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+31325
+TEXTS	MATH-048A-03	Lecture	11:00 AM-11:50 AM	F	CEMBELLIN, ZACHARY	4221
+ 	Lecture	10:00 AM-11:50 AM	TTh	CEMBELLIN, ZACHARY	4221
+Class runs from 01/08/2018 - 03/30/2018. MATH-048A-03: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30359
+TEXTS	MATH-048A-04	Lecture	12:00 PM-01:25 PM	TThF	NI, YUH	4310
+Class runs from 01/08/2018 - 03/30/2018. MATH-048A-04: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30360
+TEXTS	MATH-048A-05	Lecture	01:30 PM-03:45 PM	MW	ZWACK, TERESA	4604
+Class runs from 01/08/2018 - 03/30/2018. MATH-048A-05: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30361
+TEXTS	MATH-048A-06	Lecture	01:30 PM-03:45 PM	TTh	LIEBERMAN, ROBERT	4221
+Class runs from 01/08/2018 - 03/30/2018. MATH-048A-06: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30865
+TEXTS	MATH-048A-07	Lecture	06:00 PM-08:15 PM	MW	LOW, SOFYA	4604
+Class runs from 01/08/2018 - 03/30/2018. MATH-048A-07: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30358
+TEXTS	MATH-048A-S01	Lecture	08:00 AM-09:50 AM	MTWThF	CEMBELLIN, ZACHARY	4603
+Class runs from 01/08/2018 - 02/16/2018. MATH-048A-S01: This is six weeks class. ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+MATH 48B :: PRECALCULUS II	5 Units
+This course is a continuation of topics from MATH 48A. Topics include rational, exponential and logarithmic functions, piecewise functions, combination and composition of functions and an introduction to trigonometry.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisite: MATH 48A.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249; UC credit for MATH 48A, B & C is limited to a maximum of 7.5 units for the combination or any portion of the series completed.
+30866
+TEXTS	MATH-048B-02	Lecture	10:00 AM-11:50 AM	MW	FRANCISCO, MARNIE	4604
+ 	Lecture	10:00 AM-10:50 AM	F	FRANCISCO, MARNIE	4604
+Class runs from 01/08/2018 - 03/30/2018. MATH-048B-02: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30694
+TEXTS	MATH-048B-03	Lecture	10:00 AM-11:50 AM	TTh	ZWACK, TERESA	5610
+ 	Lecture	11:00 AM-11:50 AM	F	ZWACK, TERESA	5610
+Class runs from 01/08/2018 - 03/30/2018. MATH-048B-03: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30364
+TEXTS	MATH-048B-04	Lecture	12:00 PM-01:25 PM	TThF	NGHIEM, DANIEL	4604
+Class runs from 01/08/2018 - 03/30/2018. MATH-048B-04: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30475
+TEXTS	MATH-048B-05	Lecture	01:30 PM-03:45 PM	TTh	NGHIEM, DANIEL	4220
+Class runs from 01/08/2018 - 03/30/2018. MATH-048B-05: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30533
+TEXTS	MATH-048B-S01	Lecture	08:00 AM-09:50 AM	MTWThF	CEMBELLIN, ZACHARY	5601
+Class runs from 02/19/2018 - 03/30/2018.
+MATH 48C :: PRECALCULUS III	5 Units
+This course is a continuation of topics from MATH 48B. Topics include the six trigonometric functions, trigonometric identities, inverse trigonometric functions, trigonometric equations, right triangles, oblique triangles, vectors, parametric equations, and modeling data with various functions.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisite: MATH 48B.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249; UC credit for MATH 48A, B & C is limited to a maximum of 7.5 units for the combination or any portion of the series completed.
+30478
+TEXTS	MATH-048C-01	Lecture	09:00 AM-09:50 AM	F	LEE, DEBBIE	4604
+ 	Lecture	08:00 AM-09:50 AM	TTh	LEE, DEBBIE	4604
+Class runs from 01/08/2018 - 03/30/2018. MATH-048C-01: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30479
+TEXTS	MATH-048C-02	Lecture	10:00 AM-11:50 AM	MW	LEE, DEBBIE	5610
+ 	Lecture	10:00 AM-10:50 AM	F	LEE, DEBBIE	5610
+Class runs from 01/08/2018 - 03/30/2018. MATH-048C-02: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30480
+TEXTS	MATH-048C-03	Lecture	11:00 AM-11:50 AM	F	FRANCISCO, MARNIE	4310
+ 	Lecture	10:00 AM-11:50 AM	TTh	FRANCISCO, MARNIE	4310
+Class runs from 01/08/2018 - 03/30/2018. MATH-048C-03: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30607
+TEXTS	MATH-048C-04	Lecture	12:00 PM-01:25 PM	TThF	TOMUTIU, MARIA	4601
+Class runs from 01/08/2018 - 03/30/2018. MATH-048C-04: ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+MATH 70R :: INDEPENDENT STUDY IN MATHEMATICS	1 Unit
+Provides an opportunity for the student to expand their studies in Mathematics beyond the classroom by completing a project or an assignment arranged by agreement between the student and instructor. The student is required to contract with the instructor to determine the scope of assignment and the unit value assigned for successful completion. Students may take a maximum of 6 units of Independent Study per department.
+3 hours laboratory per week. (36 hours total per quarter.)
+30749
+TEXTS	MATH-070R-01	Lecture	TBA	TBA	STAFF, M	TBA
+Class runs from 01/08/2018 - 03/30/2018. MATH-070R-01: Students need to complete an independent study contract with an instructor during the first two weeks of the quarter to enroll. Please discuss with interested faculty members about potential projects. Contact the PSME Division Office for more information at chenruyu@foothill.edu (Ruyu Chen, Administrative Assistant) or 650-949-7259.
+MATH 71R :: INDEPENDENT STUDY IN MATHEMATICS	2 Units
+Provides an opportunity for the student to expand their studies in Mathematics beyond the classroom by completing a project or an assignment arranged by agreement between the student and instructor. The student is required to contract with the instructor to determine the scope of assignment and the unit value assigned for successful completion. Students may take a maximum of 6 units of Independent Study per department.
+6 hours laboratory per week. (72 hours total per quarter.)
+31163
+TEXTS	MATH-071R-01	Lecture	TBA	TBA	STAFF, M	TBA
+Class runs from 01/08/2018 - 03/30/2018. MATH-071R-01: Students need to complete an independent study contract with an instructor during the first two weeks of the quarter to enroll. Please discuss with interested faculty members about potential projects. Contact the PSME Division Office for more information at chenruyu@foothill.edu (Ruyu Chen, Administrative Assistant) or 650-949-7259.
+MATH 72R :: INDEPENDENT STUDY IN MATHEMATICS	3 Units
+Provides an opportunity for the student to expand their studies in Mathematics beyond the classroom by completing a project or an assignment arranged by agreement between the student and instructor. The student is required to contract with the instructor to determine the scope of assignment and the unit value assigned for successful completion. Students may take a maximum of 6 units of Independent Study per department.
+9 hours laboratory per week. (108 hours total per quarter.)
+31165
+TEXTS	MATH-072R-01	Lecture	TBA	TBA	STAFF, M	TBA
+Class runs from 01/08/2018 - 03/30/2018. MATH-072R-01: Students need to complete an independent study contract with an instructor during the first two weeks of the quarter to enroll. Please discuss with interested faculty members about potential projects. Contact the PSME Division Office for more information at chenruyu@foothill.edu (Ruyu Chen, Administrative Assistant) or 650-949-7259.
+MATH 73R :: INDEPENDENT STUDY IN MATHEMATICS	4 Units
+Provides an opportunity for the student to expand their studies in Mathematics beyond the classroom by completing a project or an assignment arranged by agreement between the student and instructor. The student is required to contract with the instructor to determine the scope of assignment and the unit value assigned for successful completion. Students may take a maximum of 6 units of Independent Study per department.
+12 hours laboratory per week. (144 hours total per quarter.)
+31166
+TEXTS	MATH-073R-01	Lecture	TBA	TBA	STAFF, M	TBA
+Class runs from 01/08/2018 - 03/30/2018. MATH-073R-01: Students need to complete an independent study contract with an instructor during the first two weeks of the quarter to enroll. Please discuss with interested faculty members about potential projects. Contact the PSME Division Office for more information at chenruyu@foothill.edu (Ruyu Chen, Administrative Assistant) or 650-949-7259.
+MATH 105 :: INTERMEDIATE ALGEBRA	5 Units
+Quadratic, polynomial, rational, radical, exponential and logarithmic functions and expressions with an emphasis on graphing and applications.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisite: Satisfactory score on the mathematics placement test or MATH 220.
+Advisory: Not open to students with credit in MATH 108.
+32086
+TEXTS	MATH-105.-01	Lecture	08:00 AM-08:50 AM	F	ANDERSON, JEFFREY	4601
+ 	Lecture	08:00 AM-09:50 AM	MW	ANDERSON, JEFFREY	4601
+Class runs from 01/08/2018 - 03/30/2018. MATH-105.-01: TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+32088
+TEXTS	• MATH-105.-02Y	Lecture	TBA	TBA	PERINO, KATHRYN	ONLINE
+ 	Lecture	08:00 AM-09:50 AM	TTh	PERINO, KATHRYN	4310
+Class runs from 01/08/2018 - 03/30/2018.
+32065
+TEXTS	MATH-105.-03Y	Lecture	10:00 AM-11:50 AM	MW	SINCLAIR, JENNIFER	5609
+ 	Lecture	TBA	TBA	SINCLAIR, JENNIFER	ONLINE
+Class runs from 01/08/2018 - 03/30/2018.
+30234
+TEXTS	• MATH-105.-04Y	TBA	TBA	TBA	MARTINEZ, RICARDO	ONLINE
+ 	Lecture	10:00 AM-11:30 AM	T	MARTINEZ, RICARDO	5609
+Class runs from 01/08/2018 - 03/30/2018. MATH-105.-04Y: TI-83/83-plus or TI 84/84-plus Graphing Calculator is required. Additional costs for online materials or content in place of or in addition to a textbook may be required. This section of Math 105 will employ a "flipped classroom" teaching methodology, requiring a moderate amount of lecture material to be acquired from online resources. Please contact the instructor for details.
+30235
+TEXTS	MATH-105.-05	Lecture	12:00 PM-01:25 PM	TThF	LIEBERMAN, ROBERT	4606
+Class runs from 01/08/2018 - 03/30/2018. MATH-105.-05: TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30236
+TEXTS	MATH-105.-06	Lecture	01:30 PM-03:45 PM	MW	LOW, SOFYA	5601
+Class runs from 01/08/2018 - 03/30/2018. MATH-105.-06: TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30365
+TEXTS	MATH-105.-07	Lecture	01:30 PM-03:45 PM	TTh	MORRISS, PATRICK	5609
+Class runs from 01/08/2018 - 03/30/2018. MATH-105.-07: TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+31401
+TEXTS	• MATH-105.-08W	Lecture	TBA	TBA	WILLIAMS, SARAH	ONLINE
+Class runs from 01/08/2018 - 03/30/2018. MATH-105.-08W: Offered via the internet. After registering, you MUST refer to "Course Information" at https://foothill.edu/onlinelearning/ for information on how to begin. ACCESS TO GRAPHING TECHNOLOGY SUCH AS A GRAPHING CALCULATOR OR GRAPHING SOFTWARE IS REQUIRED. INFORMATION ABOUT GRAPHING TECHNOLOGY TO BE USED IN YOUR COURSE WILL BE DISTRIBUTED ON OR BEFORE THE FIRST DAY OF CLASS. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+31402
+TEXTS	• MATH-105.-09W	Lecture	TBA	TBA	WILLIAMS, SARAH	ONLINE
+Class runs from 01/08/2018 - 03/30/2018. MATH-105.-09W: Offered via the internet but in-person exams required. After registering, you MUST refer to "Course Descriptions" at foothill.edu/onlinelearning/ for information on how to begin. TI-83/83-plus or TI-84/84-plus Graphing Calculator required. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+MATH 108 :: ACCELERATED ALGEBRA	10 Units
+This course will cover content from two algebra courses, beginning and intermediate algebra. The content consists of linear equations, linear inequalities, linear systems, polynomials with focus on quadratics, rationals, radicals, absolute values, exponential and logarithmic functions. Relationships between analytical, graphical, numerical, and verbal approaches will be emphasized.
+10 hours lecture. (120 hours total per quarter.)
+Prerequisite: Satisfactory score on the mathematics placement test or successful completion of MATH 230 or 230J.
+Advisory: Not open to students with credit in MATH 105.
+32171
+TEXTS	• MATH-108.-01Y	Lecture	TBA	TBA	SINCLAIR, JENNIFER	ONLINE
+ 	Lecture	07:30 AM-09:30 AM	MTWTh	SINCLAIR, JENNIFER	5610
+Class runs from 01/08/2018 - 03/30/2018.
+MATH 217 :: INTEGRATED STATISTICS I	10 Units
+The first of two courses in the Statway sequence. Covers concepts and methods of statistics with an emphasis on data analysis. Topics include methods for collecting data, graphical and numerical descriptive statistics, correlation, simple linear regression, basic concepts of probability, confidence intervals and hypothesis tests for means and proportions, chi-square tests, and ANOVA. Application problems will be taken from the fields of business, economics, medicine, engineering, education, psychology, sociology and from culturally diverse situations. This sequence is recommended for students with majors that require no mathematics beyond freshman-level statistics.
+10 hours lecture. (120 hours total per quarter.)
+Prerequisites: Satisfactory score on the mathematics placement test; MATH 230 or 230J.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249.
+30870
+TEXTS	MATH-217.-01	Lecture	10:00 AM-11:50 AM	MTWThF	LOW, MATTHEW	5601
+Class runs from 01/08/2018 - 03/30/2018. MATH-217.-01: Online version of textbook will be located at www.mystatway.org. Instructions on how to log in will be given during the first week of class. Online content will be used in place of, or in addition to a textbook. Students will be expected to access online work through campus labs several hours per week. Additional costs for printing, calculator and online materials may be required.
+MATH 220 :: ELEMENTARY ALGEBRA	5 Units
+Includes linear equations inequalities in one variable, graphs of linear and quadratic functions, solving linear systems, integer exponents, operations on polynomials, factoring, and proportional reasoning.
+5 hours lecture. (60 hours total per quarter.)
+Prerequisites: Satisfactory score on the mathematics placement test; MATH 230 or 230J.
+Advisory: Not open to students with credit in MATH 101 or 224.
+30237
+TEXTS	MATH-220.-01	Lecture	08:00 AM-09:50 AM	MW	LITRUS, MATTHEW	4221
+ 	Lecture	08:00 AM-08:50 AM	F	LITRUS, MATTHEW	4221
+Class runs from 01/08/2018 - 03/30/2018. MATH-220.-01: Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30238
+TEXTS	MATH-220.-02Y	Lecture	10:00 AM-11:50 AM	MW	PERINO, KATHRYN	4221
+ 	Lecture	TBA	TBA	PERINO, KATHRYN	ONLINE
+Class runs from 01/08/2018 - 03/30/2018.
+30608
+TEXTS	MATH-220.-03	Lecture	10:00 AM-11:50 AM	TTh	JAZDZEWSKI, KRISTIN	4302
+ 	Lecture	11:00 AM-11:50 AM	F	JAZDZEWSKI, KRISTIN	4302
+Class runs from 01/08/2018 - 03/30/2018. MATH-220.-03: Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30869
+TEXTS	MATH-220.-04	Lecture	12:00 PM-01:25 PM	TThF	STAFF, M	4302
+Class runs from 01/08/2018 - 03/30/2018. MATH-220.-04: Additional costs for online materials or content in place of or in addition to a textbook may be required.
+MATH 230 :: PREPARING FOR ALGEBRA: LINEAR EQUATIONS, PROPORTIONS & GEOMETRY	6 Units
+Review of order of operations with rational numbers. Introduction to algebraic concepts including solving first-degree equations and evaluating and simplifying expressions. Development and applications of ratios, rates, proportions, percents, and geometric concepts. Modeling with linear equations and proportions to solve and interpret results of applications in diverse fields.
+4 hours lecture, 6 hours laboratory. (120 hours total per quarter.)
+Prerequisite: MATH 235.
+Advisory: Not open to students with credit in MATH 230J.
+30484
+TEXTS	MATH-230.-01	Lecture	10:00 AM-10:45 AM	MTWThF	MUNOZ, SARAH	5602
+ 	Laboratory	10:45 AM-11:50 AM	MTWThF	MUNOZ, SARAH	5602
+Class runs from 01/08/2018 - 03/30/2018. MATH-230.-01: MATH 235 & MATH 230 are together known as the "Math My Way" Program. Please register for Section 01, as all sections meet at the same time. During the quarter, students enrolled in MATH 230 will receive instruction from multiple instructors. Additional costs for online materials or content in place of or in addition to a textbook may be required. The prerequisite for this course is Math 235. If a student plans to finish both Math 235 and Math 230 in one quarter, then the student needs to register for Math 235.
+30239
+TEXTS	MATH-230.-02	Lecture	10:00 AM-10:45 AM	MTWThF	LAM, PHUONG	5607
+ 	Laboratory	10:45 AM-11:50 AM	MTWThF	LAM, PHUONG	5607
+Class runs from 01/08/2018 - 03/30/2018. MATH-230.-02: MATH 235 & MATH 230 are together known as the "Math My Way" Program. Please register for Section 01, as all sections meet at the same time. During the quarter, students enrolled in MATH 230 will receive instruction from multiple instructors. Additional costs for online materials or content in place of or in addition to a textbook may be required. The prerequisite for this course is Math 235. If a student plans to finish both Math 235 and Math 230 in one quarter, then the student needs to register for Math 235.
+30871
+TEXTS	MATH-230.-03	Lecture	10:00 AM-10:45 AM	MTWThF	UILECAN, DIANA	5611
+ 	Laboratory	10:45 AM-11:50 AM	MTWThF	UILECAN, DIANA	5611
+Class runs from 01/08/2018 - 03/30/2018. MATH-230.-03: MATH 235 & MATH 230 are together known as the "Math My Way" Program. Please register for Section 01, as all sections meet at the same time. During the quarter, students enrolled in MATH 230 will receive instruction from multiple instructors. Additional costs for online materials or content in place of or in addition to a textbook may be required. The prerequisite for this course is Math 235. If a student plans to finish both Math 235 and Math 230 in one quarter, then the student needs to register for Math 235.
+31397
+TEXTS	MATH-230.-04	Lecture	06:00 PM-06:50 PM	MTWTh	REED, ERIC	5613
+ 	 	Laboratory	07:00 PM-08:15 PM	MTWTh	REED, ERIC	5613
+Class runs from 01/08/2018 - 03/30/2018.
+31459
+TEXTS	MATH-230.-05	Lecture	10:00 AM-10:45 AM	MTWThF	MCLENNAN, DEBORAH	5612
+ 	Laboratory	10:45 AM-11:50 AM	MTWThF	MCLENNAN, DEBORAH	5612
+Class runs from 01/08/2018 - 03/30/2018.
+MATH 235 :: PREPARING FOR ALGEBRA: REAL NUMBERS	6 Units
+Addition, subtraction, multiplication and division of whole numbers, fractions, decimals and signed numbers. Order of operations with real numbers and applications of such operations.
+4 hours lecture, 6 hours laboratory. (120 hours total per quarter.)
+30293
+TEXTS	MATH-235.-01	Lecture	10:00 AM-10:45 AM	MTWThF	MUNOZ, SARAH	5602
+ 	Laboratory	10:45 AM-11:50 AM	MTWThF	MUNOZ, SARAH	5602
+Class runs from 01/08/2018 - 03/30/2018. MATH-235.-01: MATH 235 & MATH 230 are together known as the "Math My Way" Program. MATH 235 has multiple instructors in the program. Please register for Section 01, as all sections meet at the same time. During the quarter, students enrolled in MATH 235 will receive instruction from multiple instructors. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30485
+TEXTS	MATH-235.-02	Lecture	10:00 AM-10:45 AM	MTWThF	SUKUMAR, SUMITHIRA	5613
+ 	Laboratory	10:45 AM-11:50 AM	MTWThF	SUKUMAR, SUMITHIRA	5613
+Class runs from 01/08/2018 - 03/30/2018. MATH-235.-02: MATH 235 & MATH 230 are together known as the "Math My Way" Program. MATH 235 has multiple instructors in the program. Please register for Section 01, as all sections meet at the same time. During the quarter, students enrolled in MATH 235 will receive instruction from multiple instructors. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+30486
+TEXTS	MATH-235.-03	Lecture	10:00 AM-10:45 AM	MTWThF	WONG, WILBUR	4813
+ 	Laboratory	10:45 AM-11:50 AM	MTWThF	WONG, WILBUR	4813
+Class runs from 01/08/2018 - 03/30/2018. MATH-235.-03: MATH 235 & MATH 230 are together known as the "Math My Way" Program. MATH 235 has multiple instructors in the program. Please register for Section 01, as all sections meet at the same time. During the quarter, students enrolled in MATH 235 will receive instruction from multiple instructors. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+31398
+TEXTS	MATH-235.-04	Lecture	06:00 PM-06:50 PM	MTWTh	REED, ERIC	5611
+ 	 	Laboratory	07:00 PM-08:15 PM	MTWTh	REED, ERIC	5611
+Class runs from 01/08/2018 - 03/30/2018. MATH-235.-04: MATH 235 & MATH 230 are together known as the "Math My Way" Program. MATH 235 has 7 instructors in the program. Please register for Section 01, as all sections meet at the same time. During the quarter, students enrolled in MATH 235 will receive instruction from multiple instructors. Additional costs for online materials or content in place of or in addition to a textbook may be required.
+New Search
+APPLY for Admission
+DEGREES & CERTIFICATES
+
+COURSE CATALOG
+
+FACULTY & STAFF
+
+TOP
+© Foothill College 12345 El Monte Road, Los Altos Hills, CA 94022 · Established in 1957 · AccreditationPrivacyCAMPUS INFORMATION
+Maps & Locations
+Sunnyvale Center
+Accreditation
+Foothill-De Anza District
+STUDENT RESOURCES
+Student Success Scorecard
+Ask Foothill
+SECURITY
+Campus Police & Emergency Information
+Sexual Assault & Discrimination Title IX
+Giving/Foundation
+OTHER
+Bookstore
+Employment
+A-Z Index
+Connect With Us
+Facebook
+Twitter
+Instagram
+Flickr
+YouTube
+Contact Us
+Feedback
+Directory

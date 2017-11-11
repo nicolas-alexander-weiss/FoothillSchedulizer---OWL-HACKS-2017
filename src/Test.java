@@ -1,8 +1,3 @@
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Scanner;
@@ -86,9 +81,6 @@ public class Test
             day = temp.substring(endIndex + 1);
             temp = temp.substring(0, endIndex);
 
-            System.out.println(day);
-            System.out.println("Leftover: " + temp);
-
             endIndex = temp.lastIndexOf('-');
 
             if (room.equals("ONLINE")) {
@@ -160,7 +152,12 @@ public class Test
     public static void main(String[] args) throws Exception
     {
 
-        String inputFileName = "resources/input.txt";
+        File dir = new File("resources/classes/MATH");
+        for(File file: dir.listFiles())
+            if (!file.isDirectory())
+                file.delete();
+
+        String inputFileName = "resources/inputfiles/math.txt";
 
         Scanner fileReader = new Scanner(new File(inputFileName));
 
@@ -180,19 +177,6 @@ public class Test
         question = question.replace("\n", "").replace("\r", "");
         System.out.println(question);
 
-        /*
-        String outputFileName = "resources/output";
-        BufferedWriter fileWriter;
-
-
-        try {
-            fileWriter = new BufferedWriter(new FileWriter(outputFileName + ".txt"));
-            fileWriter.write(question);
-            fileWriter.flush();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-        */
 
         String regex = "(\\d{5}.+?)Class";
 
@@ -231,7 +215,7 @@ public class Test
 
             temp = removeGarbage(temp);
 
-            regex = "((?:L|T).+?(?:ONLINE|\\d{4}))";
+            regex = "((?:L|T).+?(?:ONLINE|\\d{4}|SV\\d{3}|SV(?:$|\\t)))";
 
             pattern = Pattern.compile(regex);
             matcher = pattern.matcher(temp);
@@ -272,6 +256,7 @@ public class Test
             ArrayList<ClassTime> myClassTimes;
             myClassTimes = createClassTime(timesToParse);
 
+            /*
             System.out.println(tempCopy);
             System.out.println(temp);
 
@@ -280,7 +265,10 @@ public class Test
 
             for (int mCounter = 0; mCounter < myClassTimes.size(); mCounter++) {
                 System.out.println(myClassTimes.get(mCounter));
-            }
+            }*/
+
+            Class myClass = new Class(crn, className, myClassTimes);
+            System.out.println(myClass.toString());
 
 
 
@@ -293,7 +281,20 @@ public class Test
                 System.out.println("Time: " + classTimes.get(k));
             }*/
             System.out.println();
+            String[] classNameParts = className.split("-");
+            String outputFileName = "resources/classes/" + classNameParts[0] + "/" + classNameParts[1];
+            BufferedWriter fileWriter;
+
+
+            try {
+                fileWriter = new BufferedWriter(new FileWriter(outputFileName,true));
+                fileWriter.write(myClass.toString() + "\n\n");
+                fileWriter.flush();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
         }
+
 
 
 
