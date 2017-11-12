@@ -78,7 +78,14 @@ public class ScheduleRate {
         int counterOnline = 0;
         int counterOffline = 0;
 
-        for(Class classObject : )
+        for(Class classObject : schedule.getClassList()){
+            for(ClassTime classTime : classObject.getClassTimes()){
+                if(classTime.getRoom().toUpperCase().equals("ONLINE")){
+                    return 1;
+                }
+            }
+        }
+        return -1;
     }
 
 }
