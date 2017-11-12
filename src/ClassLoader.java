@@ -15,7 +15,7 @@ public class ClassLoader {
      * @return class file found
      */
     public static boolean classExists(ClassName className){
-        String filePath = "resources/" + className.getDepartment().toUpperCase() + "/" + className.getName().toUpperCase();
+        String filePath = "resources/classes/" + className.getDepartment().toUpperCase() + "/" + className.getName().toUpperCase();
         return (new File(filePath)).exists();
     }
 
