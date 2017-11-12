@@ -18,6 +18,10 @@ public class Schedule {
         return booleanSchedule;
     }
 
+    public ArrayList<Class> getClassList() {
+        return classList;
+    }
+
     public boolean add(Class classObject){
 
         ArrayList<ClassTime> classTimes = classObject.getClassTimes();
