@@ -55,4 +55,59 @@ public class Schedule {
         return true;
     }
 
+    public String toString() {
+        String returnString = "Schedule:\n";
+        for (int i = 0; i < classList.size(); i++) {
+            Class tempClass = classList.get(i);
+            returnString += tempClass.getCrn() + "\n"
+            + tempClass.getName() + "\n";
+            for (int j = 0; j < tempClass.getClassTimes().size(); j++) {
+                ClassTime tempClassTime = tempClass.getClassTimes().get(j);
+                returnString += tempClassTime.getType() + " ";
+                if (tempClassTime.getTime() == 0)
+                    returnString += "Online ";
+                else {
+                    int tempTime = tempClassTime.getTime();
+                    String tempTimeString = String.valueOf(tempTime);
+                    if (tempTimeString.length() > 8)
+                        tempTimeString = tempTimeString.substring(1);
+                    if (tempTimeString.length() < 8)
+                        tempTimeString = "0" + tempTimeString;
+                    returnString += tempTimeString.substring(0,2) + ":" + tempTimeString.substring(2,4) + "-" +
+                            tempTimeString.substring(4,6) + ":" + tempTimeString.substring(6);
+                    switch (tempTime / 100000000) {
+                        case 0:
+                            returnString += "M ";
+                            break;
+                        case 1:
+                            returnString += "T ";
+                            break;
+                        case 2:
+                            returnString += "W ";
+                            break;
+                        case 3:
+                            returnString += "Th ";
+                            break;
+                        case 4:
+                            returnString += "F ";
+                            break;
+                        case 5:
+                            returnString += "S ";
+                            break;
+                        case 6:
+                            returnString += "S ";
+                            break;
+                        default:
+                            returnString += "ERROR";
+                            break;
+                    }
+
+                }
+                returnString += tempClassTime.getInstructor() + " " + tempClassTime.getRoom() + "\n";
+            }
+            returnString += "\n";
+        }
+        return returnString;
+    }
+
 }
