@@ -52,13 +52,13 @@ public class FoothillSchedulizer {
         System.out.print("\nSchedule for: ");
         for (int i = 0; i < validClasses.length; i++) {
             if (i == validClasses.length - 1)
-                System.out.print(validClasses[i] + "" + "\n\n:");
+                System.out.print(validClasses[i] + ".\n\n");
             else
                 System.out.print(validClasses[i] + ", ");
         }
 
         // print the schedule
         for (int i = 0; i < schedules.length; i++)
-            System.out.println("Schedule #" + i + ":\n" + schedules[i]);
+            System.out.println("SCHEDULE #" + (i+1) + ":\n" + schedules[i]);
     }
 }
