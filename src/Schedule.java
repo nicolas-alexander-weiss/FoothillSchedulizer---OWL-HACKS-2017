@@ -8,6 +8,10 @@ public class Schedule {
 
     public Schedule(){
         classList = new ArrayList<Class>();
+        booleanSchedule = new boolean[7][];
+        for(int i = 0; i < booleanSchedule.length; i++){
+            booleanSchedule[i] = new boolean[24*5];
+        }
     }
 
     public boolean add(Class classObject){

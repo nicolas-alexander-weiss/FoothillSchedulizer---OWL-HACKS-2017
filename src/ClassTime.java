@@ -95,7 +95,7 @@ public class ClassTime {
             timeIsNumeric = false;
         }
 
-        if(stringParts.length != 4 || timeIsNumeric){
+        if(stringParts.length != 4 || !timeIsNumeric){
             return null;
         }else{
             String type = stringParts[0];

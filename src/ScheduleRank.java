@@ -2,17 +2,29 @@ import java.util.ArrayList;
 
 public class ScheduleRank {
 
-    private ArrayList<Schedule> possibleSchedules; // pass possible schedules here
-
-    // int startPreference
-    // int endPreference
-
-    private int[] getTimePreference() {
-        // Prompt User for preference Time Start
-        // Store input to getTimePreference[0]
-        // Prompt User for preference Time End
-        // Store input to getTimePreference[1]
+    public ScheduleRank(ArrayList<Schedule> possibleSchedules){
+        this.possibleSchedules = possibleSchedules;
     }
+
+
+    private ArrayList<Schedule> possibleSchedules;
+    // private int[]
+
+
+    //Preference in which time frame the classes should usually be.
+    private int startPreference;
+    private int endPreference;
+
+    private void setTimePreference(int start, int end) {
+        startPreference = start;
+        endPreference = end;
+    }
+
+
+    private static int timeRating(Schedule schedule, int start, int end){
+        return 0;
+    }
+
 
     private void rankingSchedules() {
         // get Time Ranking for each possible Schedule
@@ -56,6 +68,8 @@ public class ScheduleRank {
         // return sum(c)
 
         // **if no time preference, let b[any position] = 1
+
+        return 0;
     }
 
 
@@ -70,5 +84,7 @@ public class ScheduleRank {
         // if easy grades {
             // return professor.numberOfRatings * easygrades
         // else return sum(professor.numberOfRatings) * qualityTeacher
+
+        return 0;
     }
 }

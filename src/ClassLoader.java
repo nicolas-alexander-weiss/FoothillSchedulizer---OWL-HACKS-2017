@@ -39,7 +39,12 @@ public class ClassLoader {
             }
         }
 
-        return (Class[][])classes.toArray();
+        Class[][] classes2D = new Class[classes.size()][];
+
+        for(int i = 0; i < classes.size(); i++){
+            classes2D[i] = classes.get(i);
+        }
+        return classes2D;
     }
 
     /**
@@ -52,12 +57,14 @@ public class ClassLoader {
     }
 
     private static Class[] loadClass(ClassName className) {
-        String filePath = "resources/" + className.getDepartment().toUpperCase() + "/" + className.getName().toUpperCase();
+        String filePath = "resources/classes/" + className.getDepartment().toUpperCase() + "/" + className.getName().toUpperCase();
         File classFile = new File(filePath);
-        ArrayList<Class> arrayList = new ArrayList<>();
+        ArrayList<Class> arrayList = new ArrayList<Class>();
         StringBuilder fileString = new StringBuilder("");
         try {
+            //String nextLine;
             Scanner input = new Scanner(classFile);
+            //nextLine = input.nextLine();
             fileString.append(input.nextLine());
             while(true){
                 fileString.append("\n" + input.nextLine());
@@ -66,7 +73,7 @@ public class ClassLoader {
         }
 
         String fileS = fileString.toString();
-
+        fileS = fileS.substring(0, fileS.length()-1);
         String[] classStrings = fileS.split("\n\n");
 
         for(int i = 0; i < classStrings.length; i++){
@@ -76,8 +83,13 @@ public class ClassLoader {
             }
         }
 
+        Class[] classes = new Class[arrayList.size()];
 
-        return (Class[]) arrayList.toArray();
+        for(int i = 0; i < arrayList.size(); i++){
+            classes[i] = arrayList.get(i);
+        }
+
+        return classes;
     }
 
 

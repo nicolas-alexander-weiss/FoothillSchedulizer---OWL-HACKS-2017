@@ -84,7 +84,7 @@ public class Class {
             crnIsNumeric = false;
         }
 
-        if(!(lines.length > 2) || crnIsNumeric){
+        if(!(lines.length > 2) || !crnIsNumeric){
             return null;
         }else{
             for(int i = 2; i < lines.length; i++){
