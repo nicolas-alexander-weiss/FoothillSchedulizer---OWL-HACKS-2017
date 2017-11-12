@@ -16,7 +16,13 @@ public class ScheduleChecker {
     }
 
     public Schedule[] getPossibleSchedules(){
-        return (Schedule[]) possibleSchedules.toArray();
+
+        Schedule[] schedules = new Schedule[possibleSchedules.size()];
+        for(int i = 0; i < possibleSchedules.size(); i++){
+            schedules[i] = possibleSchedules.get(i);
+        }
+
+        return schedules;
     }
 
     private void initIterator() {
