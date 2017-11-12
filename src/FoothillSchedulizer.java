@@ -23,20 +23,24 @@ public class FoothillSchedulizer {
         ArrayList<ClassName> validClassList = new ArrayList<>();
         for (int i = 0; i < numClass; i++) {
             int digitCounter = 0;
-            for (int j = 0; j < inputClasses[i].length(); j++) {
-                if (Character.isDigit(inputClasses[i].charAt(j)))
+
+            ClassName tempClass = new ClassName(inputClasses[i]);
+            for (int j = 0; j < tempClass.getName().length(); j++) {
+                if (Character.isDigit(tempClass.getName().charAt(j)))
                     ++digitCounter;
             }
 
             if (digitCounter == 1)
-                inputClasses[i] = "00" + inputClasses[i];
+                tempClass.setName("00" + tempClass.getName());
             else if (digitCounter == 2)
-                inputClasses[i] = "0" + inputClasses[i];
+                tempClass.setName("0" + tempClass.getName());
 
-            if (ClassLoader.classExists(new ClassName(inputClasses[i])))
-                validClassList.add(new ClassName(inputClasses[i]));
+            if (ClassLoader.classExists(tempClass))
+                validClassList.add(tempClass);
         }
 
+        for (ClassName name : validClassList)
+            System.out.println(name);
         // move all the ArrayList elements into an array
         ClassName[] validClasses = new ClassName[validClassList.size()];
         validClasses = validClassList.toArray(validClasses);

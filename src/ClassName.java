@@ -26,7 +26,7 @@ public class ClassName {
         String firstDigit = String.valueOf(className.charAt(digitIndex));
 
         // split department and name
-        String[] deptCode = className.split(String.valueOf(className.charAt(digitIndex)));
+        String[] deptCode = className.split(String.valueOf(className.charAt(digitIndex)), 2);
 
         department = deptCode[0];
         name = firstDigit + deptCode[1];
@@ -40,6 +40,9 @@ public class ClassName {
         return name;
     }
 
+    public void setName(String name) {
+        this.name = name;
+    }
     @Override
     public String toString(){
         return department.toUpperCase() + name.toUpperCase();
