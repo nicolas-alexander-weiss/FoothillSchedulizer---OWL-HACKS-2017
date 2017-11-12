@@ -60,7 +60,7 @@ public class Schedule {
     }
 
     public String toString() {
-        String returnString = "Schedule:\n";
+        String returnString = "";
         for (int i = 0; i < classList.size(); i++) {
             Class tempClass = classList.get(i);
             returnString += tempClass.getCrn() + "\n"
