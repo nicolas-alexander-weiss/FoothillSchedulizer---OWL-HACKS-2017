@@ -16,7 +16,7 @@ public class NicoTest {
         Schedule[] possibleSchedules = scheduleChecker.getPossibleSchedules();
 
         for (int j = 0; j < possibleSchedules.length; j++) {
-            System.out.println(possibleSchedules[i]);
+            System.out.println(possibleSchedules[j]);
         }
 
     }
