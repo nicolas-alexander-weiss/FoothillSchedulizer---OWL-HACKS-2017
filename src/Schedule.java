@@ -10,7 +10,7 @@ public class Schedule {
         classList = new ArrayList<Class>();
         booleanSchedule = new boolean[7][];
         for(int i = 0; i < booleanSchedule.length; i++){
-            booleanSchedule[i] = new boolean[24*5];
+            booleanSchedule[i] = new boolean[24*12*5];
         }
     }
 
@@ -33,7 +33,16 @@ public class Schedule {
 
             int begIndex = (begM/5) + (begH*12);
             int endIndex = (endM/5) + (endH*12);
+
             for (int i = begIndex; i < endIndex; i++){
+                /*
+                if(d >= booleanSchedule.length || d < 0){
+                    int p = 0;
+                    if(i >= booleanSchedule[d].length || i < 0){
+                        p = 1;
+                    }
+                }
+                */
                 if(booleanSchedule[d][i]){
                     return false;
                 }else{
