@@ -1,0 +1,327 @@
+Skip to Main Content
+CALENDAR	NEWS	EVENTS	DIRECTORY	LIBRARY	BOOKSTORE	MAP	MYPORTAL	CLASS SCHEDULE	ONLINE LEARNINGSearch
+INFO FOR
+Site Logo
+About Us	Programs & Courses	Apply & Register	Costs & Financial Aid	Student Services	Student Life & Campus Resources	Sunnyvale Centersubpage flowers image
+Computer Science
+HomeComputer ScienceClass Schedule
+Class ScheduleComputer Science (C S)Change active quarter:  Select
+
+
+91 courses/sections being shown for Fall 2017 (Note: Results limited to 400)
+
+Legend:	• = Online   % = Honors Course   √ = Off Campus	Second Spring	Evening	Late Start
+M = Monday   T = Tuesday   W = Wednesday   Th = Thursday   F = Friday   S = Saturday   U = Sunday
+Use the link "TEXTS" to view textbook and/or other materials for course/section on the Bookstore Website.
+CRN #	Section ID	Type	Time	Days	Instructor	Location
+Computer Science	foothill.edu/psme/
+Physical Sciences, Mathematics & Engineering Division	(650) 949-7259
+C S 1A :: OBJECT-ORIENTED PROGRAMMING METHODOLOGIES IN JAVA	4.5 Units
+Systematic introduction to fundamental concepts of computer science through the study of the Java programming language. Coding topics include Java control structures, classes, methods, arrays, graphical user interfaces and elementary data structures. Concept topics include algorithms, recursion, data abstraction, problem solving strategies, code style, documentation, debugging techniques and testing.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Advisory: Satisfactory score on the mathematics placement test or MATH 105 or 108; not open to students with credit in C S 1AH.
+20467
+TEXTS	C S -001A-02Y	Lecture	01:30 PM-03:20 PM	MW	WEUSIJANA, BABA KOFI	5607
+ 	Laboratory	TBA	TBA	WEUSIJANA, BABA KOFI	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+20468
+TEXTS	• C S -001A-03W	Lecture	TBA	TBA	VENKATARAMAN, ANAND	ONLINE
+ 	Laboratory	TBA	TBA	VENKATARAMAN, ANAND	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+20469
+TEXTS	• C S -001A-04W	Lecture	TBA	TBA	CECIL, JESSE	ONLINE
+ 	Laboratory	TBA	TBA	CECIL, JESSE	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+20704
+TEXTS	• C S -001A-05W	Lecture	TBA	TBA	IBRAHIM, HANAN	ONLINE
+ 	Laboratory	TBA	TBA	IBRAHIM, HANAN	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+20470
+TEXTS	• C S -001A-06W	Lecture	TBA	TBA	KRISHNAMURTHY, LALITHA	ONLINE
+ 	Laboratory	TBA	TBA	KRISHNAMURTHY, LALITHA	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+22486
+TEXTS	• C S -001A-08W	Lecture	TBA	TBA	VENKATARAMAN, ANAND	ONLINE
+ 	Laboratory	TBA	TBA	VENKATARAMAN, ANAND	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+21157
+TEXTS	√ C S -001A-51Y	Lecture	06:30 PM-08:20 PM	MW	WEUSIJANA, BABA KOFI	SV209
+ 	Laboratory	TBA	TBA	WEUSIJANA, BABA KOFI	ONLINE
+Class runs from 09/25/2017 - 12/15/2017. This course is offered at the Foothill College Sunnyvale Center located at 1070 Innovation Way in Sunnyvale. Please visit https://foothill.edu/sunnyvale/ for campus information and directions.
+20466
+TEXTS	C S -001A-S1Y	Lecture	10:00 AM-11:50 AM	MW	MAZLOOM, BITA	4308
+ 	Laboratory	TBA	TBA	MAZLOOM, BITA	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 1B :: INTERMEDIATE SOFTWARE DESIGN IN JAVA	4.5 Units
+Systematic treatment of intermediate concepts in computer science through the study of Java object-oriented programming (OOP). Coding topics include Java interfaces, class extension, generics, the Java collections framework, multi-dimensional arrays and file I/O. Concept topics include OOP project design, inheritance, polymorphism, method chaining, functional programming, linked-lists, FIFOs, LIFOs, event-driven programming and guarded code.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Prerequisite: C S 1A or 1AH.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249.
+20621
+TEXTS	C S -001B-01Y	Lecture	06:00 PM-07:50 PM	TTh	MANSOURI SAMANI, MASOUD	4306
+ 	Laboratory	TBA	TBA	MANSOURI SAMANI, MASOUD	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+22135
+TEXTS	C S -001B-02Y	Lecture	10:00 AM-11:50 AM	TTh	WEUSIJANA, BABA KOFI	4302
+ 	Laboratory	TBA	TBA	WEUSIJANA, BABA KOFI	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+20877
+TEXTS	• C S -001B-03W	Lecture	TBA	TBA	MAZLOOM, BITA	ONLINE
+ 	Laboratory	TBA	TBA	MAZLOOM, BITA	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+20810
+TEXTS	• C S -001B-04W	Lecture	TBA	TBA	CECIL, JESSE	ONLINE
+ 	Laboratory	TBA	TBA	CECIL, JESSE	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 1C :: ADVANCED DATA STRUCTURES & ALGORITHMS IN JAVA	4.5 Units
+Systematic treatment of advanced data structures, algorithm analysis and abstract data types in the Java programming language. Coding topics include the development of ADTs from scratch, building ADTs on top of the java.util collections, array lists, linked lists, trees, maps, hashing functions and graphs. Concept topics include searching, big-O time complexity, analysis of all major sorting techniques, top down splaying, AVL tree balancing, shortest path algorithms, minimum spanning trees and maximum flow graphs.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Prerequisite: C S 1B.
+Advisory: One of the following: ENGL 1A, 1AH, 1S & 1T or ESLL 26.
+20779
+TEXTS	C S -001C-01Y	Lecture	06:30 PM-08:20 PM	MW	CHANDRA, TUSHAR	5602
+ 	Laboratory	TBA	TBA	CHANDRA, TUSHAR	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+20473
+TEXTS	• C S -001C-02W	Lecture	TBA	TBA	KRISHNAN, SHEKHAR	ONLINE
+ 	Laboratory	TBA	TBA	KRISHNAN, SHEKHAR	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 2A :: OBJECT-ORIENTED PROGRAMMING METHODOLOGIES IN C++	4.5 Units
+Systematic introduction to fundamental concepts of computer science through the study of the C++ programming language. Coding topics include C++ control structures, objects, global-scope functions, class methods, arrays and elementary data structures. Concept topics include algorithms, recursion, data abstraction, problem solving strategies, code style, documentation, debugging techniques and testing.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Advisory: Satisfactory score on the mathematics placement test or MATH 105 or 108; not open to students with credit in C S 2AH.
+20471
+TEXTS	C S -002A-01Y	Lecture	08:00 AM-09:50 AM	TTh	VENKATARAMAN, ANAND	5607
+ 	Laboratory	TBA	TBA	VENKATARAMAN, ANAND	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+20705
+TEXTS	• C S -002A-02W	Lecture	TBA	TBA	VENKATARAMAN, ANAND	ONLINE
+ 	Laboratory	TBA	TBA	VENKATARAMAN, ANAND	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+20593
+TEXTS	• C S -002A-04W	Lecture	TBA	TBA	MEADE, LADAWN	ONLINE
+ 	Laboratory	TBA	TBA	MEADE, LADAWN	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+21392
+TEXTS	• C S -002A-05W	Lecture	TBA	TBA	HARDEN, DAVID	ONLINE
+ 	Laboratory	TBA	TBA	HARDEN, DAVID	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+21161
+TEXTS	√ C S -002A-51Y	Lecture	06:30 PM-08:20 PM	TTh	DHAGAT, MANEESH	SV222
+ 	Laboratory	TBA	TBA	DHAGAT, MANEESH	ONLINE
+Class runs from 09/25/2017 - 12/15/2017. This course is offered at the Foothill College Sunnyvale Center located at 1070 Innovation Way in Sunnyvale. Please visit https://foothill.edu/sunnyvale/ for campus information and directions.
+C S 2B :: INTERMEDIATE SOFTWARE DESIGN IN C++	4.5 Units
+Systematic treatment of intermediate concepts in computer science through the study of C++ object-oriented programming (OOP). Coding topics include C++ derived classes, class templates, function templates, virtual functions, operator overloading, an introduction to the Standard Template Library, multiple inheritance, pointers, dynamic memory allocation and file I/O. Concept topics include OOP project design, inheritance, polymorphism, method chaining, functional programming, linked-lists, FIFOs, LIFOs, events in GUIs and guarded code.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Prerequisite: C S 2A or 2AH.
+Advisory: Demonstrated proficiency in English by placement as determined by score on the English placement test OR through an equivalent placement process OR completion of ESLL 125 & ESLL 249.
+20780
+TEXTS	• C S -002B-01W	Lecture	TBA	TBA	PHAM, TRI	ONLINE
+ 	Laboratory	TBA	TBA	PHAM, TRI	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+20615
+TEXTS	• C S -002B-02W	Lecture	TBA	TBA	HARDEN, DAVID	ONLINE
+ 	Laboratory	TBA	TBA	HARDEN, DAVID	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 2C :: ADVANCED DATA STRUCTURES & ALGORITHMS IN C++	4.5 Units
+Systematic treatment of advanced data structures, algorithm analysis and abstract data types in the C++ programming language. Coding topics include the development of ADTs from scratch, building ADTs on top of the STL templates, vectors, lists, trees, maps, hashing functions and graphs. Concept topics include searching, big-O time complexity, analysis of all major sorting techniques, top down splaying, AVL tree balancing, shortest path algorithms, minimum spanning trees and maximum flow graphs.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Prerequisite: C S 2B.
+Advisory: One of the following: ENGL 1A, 1AH, 1S & 1T or ESLL 26.
+20594
+TEXTS	• C S -002C-01W	Lecture	TBA	TBA	LAI, JIANSU	ONLINE
+ 	Laboratory	TBA	TBA	LAI, JIANSU	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+21393
+TEXTS	C S -002C-02Y	Lecture	06:30 PM-08:20 PM	MW	MCDANIEL, MIKEL	5607
+ 	Laboratory	TBA	TBA	MCDANIEL, MIKEL	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 3A :: OBJECT-ORIENTED PROGRAMMING METHODOLOGIES IN PYTHON	4.5 Units
+Systematic introduction to fundamental concepts of computer science through the study of the Python programming language. Coding topics include control structures, functions, classes, string processing, lists, tuples, dictionaries, working with files, and elementary graphics. Concept topics include algorithms, recursion, data abstraction, problem solving strategies, code style, documentation, debugging techniques and testing.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Advisory: Satisfactory score on the mathematics placement test or MATH 105 or 108.
+22136
+TEXTS	C S -003A-01Y	Lecture	10:00 AM-11:50 AM	TTh	HAIGHT, ELAINE	4308
+ 	Laboratory	TBA	TBA	HAIGHT, ELAINE	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+21327
+TEXTS	• C S -003A-02W	Lecture	TBA	TBA	XIONG, LIPING	ONLINE
+ 	Laboratory	TBA	TBA	XIONG, LIPING	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+21162
+TEXTS	√ C S -003A-50Y	Lecture	06:30 PM-08:20 PM	TTh	VAN DER LINDEN, PETER	SV226
+ 	Laboratory	TBA	TBA	VAN DER LINDEN, PETER	ONLINE
+Class runs from 09/25/2017 - 12/15/2017. This course is offered at the Foothill College Sunnyvale Center located at 1070 Innovation Way in Sunnyvale. Please visit https://foothill.edu/sunnyvale/ for campus information and directions.
+C S 10 :: COMPUTER ARCHITECTURE & ORGANIZATION	4.5 Units
+Introduction to the organization, architecture and machine-level programming of computer systems. Topics include mapping of high-level language constructs into assembly code, internal data representations, numerical computation, virtual memory, pipelines, caching, multitasking, MIPS architecture, MIPA assembly language code, interrupts, input/output, peripheral storage processing, and comparison of CISC (Intel) and RISC (MIPS) instruction sets.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Prerequisite: One of the following: C S 1A, 1AH, 2A or 2AH.
+Advisory: C S 1C or 2C.
+21394
+TEXTS	• C S -010.-01W	Lecture	TBA	TBA	LAMBLE, GERI	ONLINE
+ 	Laboratory	TBA	TBA	LAMBLE, GERI	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+21167
+TEXTS	√ C S -010.-50Y	Lecture	06:30 PM-08:20 PM	TTh	RIORDAN, THOMAS	SV207
+ 	Laboratory	TBA	TBA	RIORDAN, THOMAS	ONLINE
+Class runs from 09/25/2017 - 12/15/2017. C S -010.-50Y: This course is offered at the Foothill College Sunnyvale Center located at 1070 Innovation Way in Sunnyvale. Please visit https://foothill.edu/sunnyvale/ for campus information and directions.
+C S 21A :: PYTHON FOR PROGRAMMERS	4.5 Units
+Introduction to the Python language and environment. Covers topics including object oriented programming, elementary data structures, modules, algorithms, recursion, data abstraction, code style, documentation, debugging techniques and testing.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Advisory: One of the following: C S 1A, 1AH, 2A, 2AH, 3A or equivalent.
+20710
+TEXTS	• C S -021A-01W	Lecture	TBA	TBA	HAIGHT, ELAINE	ONLINE
+ 	Laboratory	TBA	TBA	HAIGHT, ELAINE	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+20711
+TEXTS	• C S -021A-02W	Lecture	TBA	TBA	KHAYRALLAH, RULA	ONLINE
+ 	Laboratory	TBA	TBA	KHAYRALLAH, RULA	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 22A :: JAVASCRIPT FOR PROGRAMMERS	4.5 Units
+Introduction to object oriented programming in JavaScript. Topics include: client and server side programming, Model/View/Controller architecture, current tools and testing methods, interaction with HTML and CSS, Document Object Model, XML and JSON. Students will have practice writing programs for mobile web browsers and creating dynamic web pages including animation.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Advisory: One of the following: C S 1A, 1AH, 2A, 2AH or equivalent; knowledge of HTML and CSS.
+20712
+TEXTS	• C S -022A-02W	Lecture	TBA	TBA	MEADE, LADAWN	ONLINE
+ 	Laboratory	TBA	TBA	MEADE, LADAWN	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 30A :: INTRODUCTION TO LINUX	4.5 Units
+Introduction to the Linux operating system primarily focused on command line usage. Covers the history, kernel, file systems, shells and user utilities. Also introduces students to the fundamentals of shell programming, processes, communications, and basic security.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+20595
+TEXTS	• C S -030A-01W	Lecture	TBA	TBA	MURPHY, WILLIAM	ONLINE
+ 	Laboratory	TBA	TBA	MURPHY, WILLIAM	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 30B :: LINUX SHELL PROGRAMMING	4.5 Units
+Linux shell script programming using the Bourne Again shell programming language (bash) and Linux utilities to create practical shell scripts. Topics covered include customizing the environment, running and writing scripts, variables, loops, functions, text processing and debugging.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Advisory: C S 30A or equivalent.
+21398
+TEXTS	• C S -030B-01W	Lecture	TBA	TBA	KOSAR, RABUN	ONLINE
+ 	Laboratory	TBA	TBA	KOSAR, RABUN	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 31A :: INTRODUCTION TO DATABASE MANAGEMENT SYSTEMS	4.5 Units
+Introduction to database design and use of database management systems for applications. Topics include database architecture, comparison to file-based systems, historical data models, conceptual model; integrity constraints and triggers; functional dependencies and normal forms; relational model, algebra, database processing and Structured Query Language (SQL), database access from Applications-Embedded SQL, JDBC, Cursors, Dynamic SQL, Stored Procedures. Emerging trends will be studied, such as NoSQL databases, Internet & Databases and On-Line Analytical Processing (OLAP). A team project that builds a database application for a real-world scenario is an important element of the course.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Advisory: One of the following: C S 1A, 1AH, 2A, 2AH or equivalent.
+20619
+TEXTS	• C S -031A-01W	Lecture	TBA	TBA	IBRAHIM, HANAN	ONLINE
+ 	Laboratory	TBA	TBA	IBRAHIM, HANAN	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 40A :: SOFTWARE ENGINEERING METHODOLOGIES	4.5 Units
+A collaboration-oriented course that trains students in the techniques currently used by software engineers to develop reliable products in an efficient manner. The course emphasizes Agile methods and a variety of tools used during the software development lifecycle.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Advisory: C S 1B or 2B.
+22138
+TEXTS	C S -040A-01Y	Lecture	02:00 PM-03:50 PM	TTh	MAZLOOM, BITA	4306
+ 	Laboratory	TBA	TBA	MAZLOOM, BITA	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 49 :: FOUNDATIONS OF COMPUTER PROGRAMMING	2 Units
+Introduction to basic computer programming concepts using an object-oriented language. Intended for students interested in C S 1A or 2A, but would like a more gradual entry to computing foundations. Coding topics include hands-on practice with software engineering tools, simple programs, variables, control structures, functions, and input /output. Concept topics include the comprehension of specifications, adherence to style guidelines, and the importance of testing to ensure that programs are usable, robust and modifiable.
+2 hours lecture, 1 hour laboratory. (36 hours total per quarter.)
+Advisory: Satisfactory score on the mathematics placement test or MATH 105 or 108; concurrent enrollment in ESLL 125 or ENGL 209.
+20630
+TEXTS	• C S -049.-01W	Lecture	TBA	TBA	AGARWAL, RAHUL	ONLINE
+ 	Laboratory	TBA	TBA	AGARWAL, RAHUL	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+20881
+TEXTS	C S -049.-S2Y	Lecture	12:00 PM-01:50 PM	Th	BARNARD, EMILIE	4306
+ 	Laboratory	TBA	TBA	BARNARD, EMILIE	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 50A :: NETWORK BASICS (CCNA)	4.5 Units
+Introduction to the architecture, structure, functions, components, and models of the Internet and other computer networks. The principles and structure of IP addressing and the fundamentals of Ethernet concepts, media, and operations are introduced to provide a foundation for the curriculum. Students will be able to build simple LANs, perform basic configurations for routers and switches, and implement IP addressing schemes.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+20916
+TEXTS	C S -050A-01Y	Lecture	06:00 PM-09:50 PM	T	MURPHY, WILLIAM	4308
+ 	Laboratory	TBA	TBA	MURPHY, WILLIAM	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 50B :: ROUTING & SWITCHING ESSENTIALS (CCNA)	4.5 Units
+This course describes the architecture, components, and operations of routers and switches in a small network. Students learn how to configure a router and a switch for basic functionality. By the end of this course students will be able to configure and troubleshoot routers and switches and resolve common issues with RIPv1, RIPv2, single-area and multi-area OSPF, virtual LANs, and inter- VLAN routing in both IPv4 and IPv6 networks. This course is preparation for the CCENT and CCNA certification exams. This course describes the architecture, components, and operations of routers, and explains the principles of routing and routing protocols. Students will be given the opportunity to configure a router for basic and advanced functionality. Students will be able to configure and troubleshoot routers and resolve common issues with RIPv1, RIPv2, EIGRP, and OSPF in both IPv4 and IPv6 network.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Advisory: C S 50A.
+20954
+TEXTS	C S -050B-01Y	Lecture	06:00 PM-09:50 PM	W	MURPHY, WILLIAM	4308
+ 	Laboratory	TBA	TBA	MURPHY, WILLIAM	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 50D :: CONNECTING NETWORKS–WANS (CCNA)	4.5 Units
+This course discusses the WAN technologies and network services required by converged applications in a complex network. The course enables students to understand the selection criteria of network devices and WAN technologies to meet network requirements. Students learn how to configure and troubleshoot network devices and resolve common issues with data link protocols. Students will also develop the knowledge and skills needed to implement IPSec and virtual private network (VPN) operations in a complex network.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Advisory: C S 50A, 50B and 50C.
+20917
+TEXTS	C S -050D-01Y	Lecture	06:00 PM-09:50 PM	M	MURPHY, WILLIAM	4308
+ 	Laboratory	TBA	TBA	MURPHY, WILLIAM	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 52A :: ADVANCED IP ROUTING PROTOCOLS & SERVICES (CCNP)	4.5 Units
+The ROUTE course is designed to help students advance their knowledge and skills and work independently on complex network solutions. Students will plan, configure and verify the implementation of secure enterprise LAN and WAN routing solutions using a range of routing protocols. Configuration of solutions to support branch offices and mobile workers will be presented. This course uses the official Cisco Academy CCNP ROUTE curriculum and is designed to provide preparation for the CCNP ROUTE certification exam.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Advisory: C S 50B or equivalent experience.
+21173
+TEXTS	C S -052A-01Y	Lecture	06:00 PM-09:50 PM	Th	MURPHY, WILLIAM	4308
+ 	Laboratory	TBA	TBA	MURPHY, WILLIAM	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 53A :: CYBERSECURITY FUNDAMENTALS	4.5 Units
+The fundamental aspects of computer and network security as it pertains to policy deployment and network defense. Core topics include cryptography, public key infrastructure, standards and protocols, physical security, infrastructure security, remote access, messaging, intrusion detection and system baselines. Industry-specific topics include certifications for CompTIA's Security+, ISC2, SSCP.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Advisory: C S 50A.
+21174
+TEXTS	C S -053A-01Y	Lecture	06:00 PM-09:50 PM	W	RYAN, TIMOTHY	4306
+ 	Laboratory	TBA	TBA	RYAN, TIMOTHY	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 56B :: IT ESSENTIALS	4.5 Units
+The course presents a working knowledge of computer internals and provide practical skills in computer hardware assembly and software installation. Emphasis is placed on troubleshooting problems, throughout the process Activities includes hands-on labs and virtual learning tools which encourage critical thinking and complex problem-solving skills.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+21403
+TEXTS	C S -056B-01Y	Lecture	06:00 PM-09:50 PM	M	RYAN, TIMOTHY	4306
+ 	Laboratory	TBA	TBA	RYAN, TIMOTHY	ONLINE
+Class runs from 09/25/2017 - 12/15/2017.
+C S 64A :: WRITING APPS FOR THE ANDROID IN JAVA	4.5 Units
+Introduction to mobile apps programming in Java for the Android. Coding topics include the Android SDK for Eclipse, the ADT Plugin, XML fundamentals and a survey of API methods and objects used to control the Android user interface. Concept topics include layouts, activity lifecycles, runtime binding, intents, location awareness, audio, video, OpenGL ES, and monetizing apps.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Advisory: C S 1B or 2B.
+21171
+TEXTS	√ C S -064A-50Y	Lecture	06:30 PM-08:20 PM	M	XIONG, LIPING	SV222
+ 	Lecture	TBA	TBA	XIONG, LIPING	ONLINE
+ 	Laboratory	TBA	TBA	XIONG, LIPING	ONLINE
+Class runs from 09/25/2017 - 12/15/2017. This course is offered at the Foothill College Sunnyvale Center located at 1070 Innovation Way in Sunnyvale. Please visit https://foothill.edu/sunnyvale/ for campus information and directions.
+C S 81A :: 3-D GRAPHICS PROGRAMMING	4.5 Units
+Introduction to 3-D graphics programming using OpenGL, intended for anyone interested in gaining 3-D expertise for games, scientific visualization, desktop and mobile apps. Coding topics include a systematic study of the OpenGL API in conjunction with any of these programming languages: Java, C++, C# or Objective C (student's choice). Concept topics include viewports, graphics primitives, 3-D motion matrices, normal vectors, shaders, fragment and pixel buffers, light simulation, polygons, virtual cameras, image pipelines, texture mapping and alpha blending.
+4 hours lecture, 2 hours laboratory. (72 hours total per quarter.)
+Advisory: One of the following: C S 1B, 2B, 20A, 21B.
+20919
+TEXTS	• C S -081A-01W	Lecture	TBA	TBA	TRINH, VIET	ONLINE
+ 	Laboratory	TBA	TBA	TRINH, VIET	ONLINE
+Class runs from 09/25/2017 - 12/15/2017. C S -081A-01W: In this online section, students are required to have access to relatively modern computers. If running a Windows-based computer, you will need access to Microsoft Visual Studio (any version). If running a Mac OS-based computer, you will need XCode 5 or later. For Unix/Linux-based computers, you will need access to any text editor applications. Both OpenGL API 3.3 or later and GLUT API 3.0 will be utilized. In addition to stated advisories, it is recommended that you have familiarity with C-based languages (C, C++, C#, Objective-C). Please contact the instructor Viet Trinh (trinhviet@foothill.edu) for additional questions or concerns. A limited number of computers loaded with the appropriate software are available on campus.
+New Search
+APPLY for Admission
+DEGREES & CERTIFICATES
+
+COURSE CATALOG
+
+FACULTY & STAFF
+
+TOP
+© Foothill College 12345 El Monte Road, Los Altos Hills, CA 94022 · Established in 1957 · AccreditationPrivacyCAMPUS INFORMATION
+Maps & Locations
+Sunnyvale Center
+Accreditation
+Foothill-De Anza District
+STUDENT RESOURCES
+Student Success Scorecard
+Ask Foothill
+SECURITY
+Campus Police & Emergency Information
+Sexual Assault & Discrimination Title IX
+Giving/Foundation
+OTHER
+Bookstore
+Employment
+A-Z Index
+Connect With Us
+Facebook
+Twitter
+Instagram
+Flickr
+YouTube
+Contact Us
+Feedback
+Directory
