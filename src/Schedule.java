@@ -51,6 +51,7 @@ public class Schedule {
             }
         }
 
+        classList.add(classObject);
         return true;
     }
 

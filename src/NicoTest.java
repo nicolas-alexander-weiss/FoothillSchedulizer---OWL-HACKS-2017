@@ -9,6 +9,7 @@ public class NicoTest {
 
         ScheduleChecker scheduleChecker = new ScheduleChecker(classes);
 
+        int i = 0;
 
     }
 }
