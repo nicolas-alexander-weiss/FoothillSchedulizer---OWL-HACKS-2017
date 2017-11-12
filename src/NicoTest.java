@@ -9,7 +9,9 @@ public class NicoTest {
 
         ScheduleChecker scheduleChecker = new ScheduleChecker(classes);
 
-        int i = 0;
+        Schedule[] schedules = scheduleChecker.getPossibleSchedules();
+
+        System.out.println("TimeRating: " + ScheduleRank.timeRating(schedules[0],840,1500));
 
     }
 }

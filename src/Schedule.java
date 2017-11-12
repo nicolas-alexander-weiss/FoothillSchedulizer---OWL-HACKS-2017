@@ -14,6 +14,10 @@ public class Schedule {
         }
     }
 
+    public boolean[][] getBooleanSchedule() {
+        return booleanSchedule;
+    }
+
     public boolean add(Class classObject){
 
         ArrayList<ClassTime> classTimes = classObject.getClassTimes();

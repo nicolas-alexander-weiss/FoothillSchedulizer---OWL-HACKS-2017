@@ -2,6 +2,11 @@ import java.util.ArrayList;
 
 public class ScheduleRank {
 
+
+
+    private final int TIME_RATING_IN_FUNCTION_MAX = 999;
+
+
     public ScheduleRank(ArrayList<Schedule> possibleSchedules){
         this.possibleSchedules = possibleSchedules;
     }
@@ -15,14 +20,49 @@ public class ScheduleRank {
     private int startPreference;
     private int endPreference;
 
+    /**
+     * format: hhmm
+     * @param start
+     * @param end
+     */
     private void setTimePreference(int start, int end) {
         startPreference = start;
         endPreference = end;
     }
 
 
-    private static int timeRating(Schedule schedule, int start, int end){
-        return 0;
+    public static double timeRating(Schedule schedule, int start, int end){
+
+        boolean[][] booleanSchedule = schedule.getBooleanSchedule();
+
+        int startH = start / 100;
+        int startM = start - startH * 100;
+        int begIndex = startH * 12 + startM / 5;
+
+        int endH = end / 100;
+        int endM = end - endH * 100;
+        int endIndex = endH * 12 + endM / 5;
+
+        int rating = 0;
+        int counter = 0;
+
+        for(int d = 0; d < booleanSchedule.length; d++){
+            for(int i = 0; i < booleanSchedule[d].length; i++){
+                if(booleanSchedule[d][i]){
+                    if(i >= begIndex && i <= endIndex){
+                        rating++;
+                    }else{
+                        rating--;
+                    }
+                    counter++;
+                }
+            }
+        }
+        if(counter == 0){
+            return 0;
+        }
+
+        return (rating /(double) counter);
     }
 
 
