@@ -38,9 +38,6 @@ public class FoothillSchedulizer {
             if (ClassLoader.classExists(tempClass))
                 validClassList.add(tempClass);
         }
-
-        for (ClassName name : validClassList)
-            System.out.println(name);
         // move all the ArrayList elements into an array
         ClassName[] validClasses = new ClassName[validClassList.size()];
         validClasses = validClassList.toArray(validClasses);
@@ -52,5 +49,16 @@ public class FoothillSchedulizer {
         ScheduleChecker scheduleChecker = new ScheduleChecker(classes);
         Schedule[] schedules = scheduleChecker.getPossibleSchedules();
 
+        System.out.print("\nSchedule for: ");
+        for (int i = 0; i < validClasses.length; i++) {
+            if (i == validClasses.length - 1)
+                System.out.print(validClasses[i] + "" + "\n\n:");
+            else
+                System.out.print(validClasses[i] + ", ");
+        }
+
+        // print the schedule
+        for (int i = 0; i < schedules.length; i++)
+            System.out.println("Schedule #" + i + ":\n" + schedules[i]);
     }
 }
