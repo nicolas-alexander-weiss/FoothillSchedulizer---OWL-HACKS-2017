@@ -13,5 +13,11 @@ public class NicoTest {
 
         System.out.println("TimeRating: " + ScheduleRank.timeRating(schedules[0],840,1500));
 
+        Schedule[] possibleSchedules = scheduleChecker.getPossibleSchedules();
+
+        for (int j = 0; j < possibleSchedules.length; j++) {
+            System.out.println(possibleSchedules[i]);
+        }
+
     }
 }
