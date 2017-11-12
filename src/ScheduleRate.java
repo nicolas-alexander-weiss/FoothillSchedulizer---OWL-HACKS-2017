@@ -1,10 +1,10 @@
 public class ScheduleRate {
 
 
-    public ScheduleRate(Schedule schedule){//, int prefTimeFrame){
+    public ScheduleRate(Schedule schedule, int prefTimeFrame){
         this.schedule = schedule;
 
-        //setTimePreference(prefTimeFrame);
+        setTimePreference(prefTimeFrame);
     }
 
     private Schedule schedule;
@@ -32,8 +32,8 @@ public class ScheduleRate {
 
         boolean[][] booleanSchedule = schedule.getBooleanSchedule();
 
-        int startH = ScheduleRate.startPreference / 100;
-        int startM = ScheduleRate.startPreference - startH * 100;
+        int startH = startPreference / 100;
+        int startM = startPreference - startH * 100;
         int begIndex = startH * 12 + startM / 5;
 
         int endH = endPreference / 100;
